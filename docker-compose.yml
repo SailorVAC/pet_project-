@@ -18,17 +18,13 @@ services:
     container_name: airflow
     restart: always
     environment:
-      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
-      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://user:password@postgres:5432/music_project
-      # Сгенерированный корректный Fernet key
-      - AIRFLOW__CORE__FERNET_KEY=kZkJd3R9o3M5YjFf2dE8gZ9lNn8DqK7H1xR7rH0Lqhk=
-      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - PYTHONPATH=/opt/airflow/src
+      
     ports:
       - "8080:8080"
     volumes:
       - ./dags:/opt/airflow/dags
-      - ./logs:/opt/airflow/logs
-      - ./plugins:/opt/airflow/plugins
+      - ./src:/opt/airflow/src
     depends_on:
       - postgres
     command: standalone

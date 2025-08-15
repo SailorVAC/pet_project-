@@ -34,7 +34,7 @@ def load_data():
         with conn.cursor() as cur:
             for record in data:
                 cur.execute(f"""
-                    INSERT INTO {TABLE_NAME} (track_id, title, artists, duration_min, albums)
+                    INSERT INTO {TABLE_NAME} (track_id, title, artists, duration_ms, albums)
                     VALUES (%s, %s, %s, %s, %s)
                     ON CONFLICT (track_id) DO NOTHING
                 """, (
@@ -45,7 +45,12 @@ def load_data():
                     record["albums"]
                 ))
             conn.commit()
+
             print(f"Загружено {len(data)} записей в таблицу '{TABLE_NAME}'")
+            
+def load_main():
+    create_table()
+    load_data()
 
 if __name__ == "__main__":
     create_table()

@@ -1,6 +1,5 @@
 from yandex_music import Client
 import json
-import os
 
 # Вставь сюда свой токен для Yandex Music API
 TOKEN = "y0__xDRi5SoARje-AYgg8idiBQR9lN0c2vVJrEtgTBhcqtUgFQRhA"

@@ -1,6 +1,4 @@
 yandex-music
 pandas
-sqlalchemy
-clickhouse-driver
 psycopg2-binary
 apache-airflow
