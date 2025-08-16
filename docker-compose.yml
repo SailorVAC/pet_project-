@@ -1,33 +1,69 @@
 version: "3.8"
 
+x-airflow-common: &airflow-common
+  build: .
+  environment:
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow_user:airflow_pass@postgres-airflow:5432/airflow_db
+    AIRFLOW__CORE__FERNET_KEY: ""
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    PYTHONPATH: /opt/airflow/src
+    YANDEX_TOKEN: "y0__xDRi5SoARje-AYgg8idiBQR9lN0c2vVJrEtgTBhcqtUgFQRhA"
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./src:/opt/airflow/src
+  depends_on:
+    - postgres-airflow
+    - postgres-music
+
 services:
-  postgres:
+  # База для Airflow
+  postgres-airflow:
+    image: postgres:15
+    container_name: airflow_postgres
+    environment:
+      POSTGRES_USER: airflow_user
+      POSTGRES_PASSWORD: airflow_pass
+      POSTGRES_DB: airflow_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata_airflow:/var/lib/postgresql/data
+
+  # База для ETL (лайки)
+  postgres-music:
     image: postgres:15
     container_name: music_postgres
     environment:
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: music_project
+      POSTGRES_USER: music_user
+      POSTGRES_PASSWORD: music_pass
+      POSTGRES_DB: music_db
     ports:
       - "5432:5432"
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - pgdata_music:/var/lib/postgresql/data
 
-  airflow:
-    image: apache/airflow:2.9.1
-    container_name: airflow
-    restart: always
-    environment:
-      - PYTHONPATH=/opt/airflow/src
-      
+  # Airflow Webserver
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow_webserver
+    command: webserver
     ports:
       - "8080:8080"
-    volumes:
-      - ./dags:/opt/airflow/dags
-      - ./src:/opt/airflow/src
-    depends_on:
-      - postgres
-    command: standalone
+
+  # Airflow Scheduler
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow_scheduler
+    command: scheduler
+
+  # Airflow Triggerer
+  airflow-triggerer:
+    <<: *airflow-common
+    container_name: airflow_triggerer
+    command: triggerer
 
 volumes:
-  pgdata:
+  pgdata_airflow:
+  pgdata_music:

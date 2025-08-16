@@ -1,4 +1,3 @@
 yandex-music
-pandas
 psycopg2-binary
-apache-airflow
+
