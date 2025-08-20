@@ -1,12 +1,79 @@
 [
   {
+    "track_id": "134512596:34655202",
+    "title": "After Dark x Sweater Weather",
+    "artists": [
+      "mikeeysmusic"
+    ],
+    "duration_ms": 4,
+    "albums": [
+      "After Dark x Sweater Weather"
+    ]
+  },
+  {
+    "track_id": "90557776:17914059",
+    "title": "Kill The Noise",
+    "artists": [
+      "Papa Roach"
+    ],
+    "duration_ms": 3,
+    "albums": [
+      "Kill The Noise"
+    ]
+  },
+  {
+    "track_id": "1627:68381",
+    "title": "Bang Bang",
+    "artists": [
+      "K'NAAN",
+      "Adam Levine"
+    ],
+    "duration_ms": 3,
+    "albums": [
+      "Troubadour"
+    ]
+  },
+  {
+    "track_id": "214362:107338",
+    "title": "Son's Gonna Rise",
+    "artists": [
+      "Citizen Cope"
+    ],
+    "duration_ms": 3,
+    "albums": [
+      "Music From The WB Television Series One Tree Hill Volume 2: Friends With Benefit"
+    ]
+  },
+  {
+    "track_id": "134019540:34446695",
+    "title": "Лучший работник",
+    "artists": [
+      "Йемен"
+    ],
+    "duration_ms": 4,
+    "albums": [
+      "Лучший работник"
+    ]
+  },
+  {
+    "track_id": "17605039:1945041",
+    "title": "Не при делах",
+    "artists": [
+      "КОПЕНGАGЕН"
+    ],
+    "duration_ms": 3,
+    "albums": [
+      "Мир"
+    ]
+  },
+  {
     "track_id": "128566804:32273849",
     "title": "Влюбись",
     "artists": [
       "DAASHA",
       "Кирилл Скрипник"
     ],
-    "duration_ms": 2.368,
+    "duration_ms": 2,
     "albums": [
       "Влюбись"
     ]
@@ -19,7 +86,7 @@
       "4IDOL",
       "YNGXIP"
     ],
-    "duration_ms": 2.308333333333333,
+    "duration_ms": 2,
     "albums": [
       "блондинки"
     ]
@@ -30,7 +97,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.3405,
+    "duration_ms": 3,
     "albums": [
       "Хрупко"
     ]
@@ -41,7 +108,7 @@
     "artists": [
       "Lynyrd Skynyrd"
     ],
-    "duration_ms": 9.160666666666666,
+    "duration_ms": 9,
     "albums": [
       "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)"
     ]
@@ -53,7 +120,7 @@
       "Navos",
       "Jaykae"
     ],
-    "duration_ms": 2.238,
+    "duration_ms": 2,
     "albums": [
       "Believe Me"
     ]
@@ -64,7 +131,7 @@
     "artists": [
       "edgessz"
     ],
-    "duration_ms": 2.3745,
+    "duration_ms": 2,
     "albums": [
       "HYSTERICS"
     ]
@@ -76,7 +143,7 @@
       "Madcon",
       "Ray Dalton"
     ],
-    "duration_ms": 3.5686666666666667,
+    "duration_ms": 3,
     "albums": [
       "HITS 15-16"
     ]
@@ -87,7 +154,7 @@
     "artists": [
       "Great White"
     ],
-    "duration_ms": 4.523333333333333,
+    "duration_ms": 4,
     "albums": [
       "Absolute Hits"
     ]
@@ -98,7 +165,7 @@
     "artists": [
       "The Dust Coda"
     ],
-    "duration_ms": 3.8768333333333334,
+    "duration_ms": 3,
     "albums": [
       "Mojo Skyline"
     ]
@@ -109,7 +176,7 @@
     "artists": [
       "How Nice"
     ],
-    "duration_ms": 3.277,
+    "duration_ms": 3,
     "albums": [
       "Water"
     ]
@@ -120,7 +187,7 @@
     "artists": [
       "2hollis"
     ],
-    "duration_ms": 2.018,
+    "duration_ms": 2,
     "albums": [
       "2"
     ]
@@ -133,7 +200,7 @@
       "The Cataracs",
       "Dev"
     ],
-    "duration_ms": 3.6458333333333335,
+    "duration_ms": 3,
     "albums": [
       "Free Wired"
     ]
@@ -144,7 +211,7 @@
     "artists": [
       "madk1d"
     ],
-    "duration_ms": 1.8,
+    "duration_ms": 1,
     "albums": [
       "sexyswag"
     ]
@@ -157,7 +224,7 @@
       "Rakhim",
       "ayv1o"
     ],
-    "duration_ms": 1.9216666666666666,
+    "duration_ms": 1,
     "albums": [
       "Целуй 2.0"
     ]
@@ -171,7 +238,7 @@
       "ARTEM SHILOVETS",
       "Toxi$"
     ],
-    "duration_ms": 3.1153333333333335,
+    "duration_ms": 3,
     "albums": [
       "2007 ч.2"
     ]
@@ -183,7 +250,7 @@
       "madk1d",
       "GRILLYAZH"
     ],
-    "duration_ms": 2.0551666666666666,
+    "duration_ms": 2,
     "albums": [
       "sexyswag"
     ]
@@ -196,7 +263,7 @@
       "nkeeei",
       "ARTEM SHILOVETS"
     ],
-    "duration_ms": 2.741833333333333,
+    "duration_ms": 2,
     "albums": [
       "2007 ч.1"
     ]
@@ -207,7 +274,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 3.184,
+    "duration_ms": 3,
     "albums": [
       "Why'd You Only Call Me When You're High?"
     ]
@@ -218,7 +285,7 @@
     "artists": [
       "Audio Bullys"
     ],
-    "duration_ms": 3.5015,
+    "duration_ms": 3,
     "albums": [
       "Higher Than the Eiffel"
     ]
@@ -229,7 +296,7 @@
     "artists": [
       "David Rawlings"
     ],
-    "duration_ms": 2.9328333333333334,
+    "duration_ms": 2,
     "albums": [
       "Poor David's Almanack"
     ]
@@ -240,7 +307,7 @@
     "artists": [
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.559833333333333,
+    "duration_ms": 2,
     "albums": [
       "ALISHER"
     ]
@@ -252,7 +319,7 @@
       "will.i.am",
       "Britney Spears"
     ],
-    "duration_ms": 4.755333333333334,
+    "duration_ms": 4,
     "albums": [
       "#willpower"
     ]
@@ -263,7 +330,7 @@
     "artists": [
       "KAZIOL"
     ],
-    "duration_ms": 3.8473333333333333,
+    "duration_ms": 3,
     "albums": [
       "Rock Your Body"
     ]
@@ -274,7 +341,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.1525,
+    "duration_ms": 3,
     "albums": [
       "Новый альбом"
     ]
@@ -287,9 +354,20 @@
       "nkeeei",
       "ARTEM SHILOVETS"
     ],
-    "duration_ms": 2.8583333333333334,
+    "duration_ms": 2,
     "albums": [
       "Кисти"
+    ]
+  },
+  {
+    "track_id": "132182984:33708457",
+    "title": "Casino",
+    "artists": [
+      "ICEGERGERT"
+    ],
+    "duration_ms": 1,
+    "albums": [
+      "Ave"
     ]
   },
   {
@@ -299,7 +377,7 @@
       "SLAVA MARLOW",
       "Glukoza"
     ],
-    "duration_ms": 2.339,
+    "duration_ms": 2,
     "albums": [
       "ЭЛЬФ 1"
     ]
@@ -311,7 +389,7 @@
       "SLAVA MARLOW",
       "Элджей"
     ],
-    "duration_ms": 2.2145,
+    "duration_ms": 2,
     "albums": [
       "ЭЛЬФ 1"
     ]
@@ -322,7 +400,7 @@
     "artists": [
       "Sam Fender"
     ],
-    "duration_ms": 3.76,
+    "duration_ms": 3,
     "albums": [
       "Hypersonic Missiles"
     ]
@@ -333,7 +411,7 @@
     "artists": [
       "Element47"
     ],
-    "duration_ms": 4.1415,
+    "duration_ms": 4,
     "albums": [
       "Everlong"
     ]
@@ -344,7 +422,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 4.609166666666667,
+    "duration_ms": 4,
     "albums": [
       "One Assassination Under God - Chapter 1"
     ]
@@ -360,7 +438,7 @@
       "Jerome Fontamillas",
       "Drew Shirley"
     ],
-    "duration_ms": 3.9723333333333333,
+    "duration_ms": 3,
     "albums": [
       "Vice Verses"
     ]
@@ -371,7 +449,7 @@
     "artists": [
       "How Nice"
     ],
-    "duration_ms": 4.018666666666666,
+    "duration_ms": 4,
     "albums": [
       "Capsize"
     ]
@@ -382,7 +460,7 @@
     "artists": [
       "Sick Puppies"
     ],
-    "duration_ms": 2.8956666666666666,
+    "duration_ms": 2,
     "albums": [
       "WAVE THE BULL"
     ]
@@ -393,7 +471,7 @@
     "artists": [
       "J Rongson"
     ],
-    "duration_ms": 2.1783333333333332,
+    "duration_ms": 2,
     "albums": [
       "Man Of Culture"
     ]
@@ -404,7 +482,7 @@
     "artists": [
       "VoxSpectra"
     ],
-    "duration_ms": 1.8045,
+    "duration_ms": 1,
     "albums": [
       "absolute in doubt x you're so beatiful"
     ]
@@ -415,7 +493,7 @@
     "artists": [
       "nowayback"
     ],
-    "duration_ms": 2.2131666666666665,
+    "duration_ms": 2,
     "albums": [
       "high enough"
     ]
@@ -426,7 +504,7 @@
     "artists": [
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.5495,
+    "duration_ms": 2,
     "albums": [
       "ALISHER"
     ]
@@ -437,7 +515,7 @@
     "artists": [
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.8388333333333335,
+    "duration_ms": 2,
     "albums": [
       "ALISHER"
     ]
@@ -448,7 +526,7 @@
     "artists": [
       "Bee Gees"
     ],
-    "duration_ms": 4.756166666666667,
+    "duration_ms": 4,
     "albums": [
       "The Ultimate Bee Gees"
     ]
@@ -459,7 +537,7 @@
     "artists": [
       "Black Eyed Peas"
     ],
-    "duration_ms": 4.4875,
+    "duration_ms": 4,
     "albums": [
       "The Beginning & The Best Of The E.N.D."
     ]
@@ -473,7 +551,7 @@
       "ARTEM SHILOVETS",
       "Heronwater"
     ],
-    "duration_ms": 2.5875,
+    "duration_ms": 2,
     "albums": [
       "2007 ч.2"
     ]
@@ -485,7 +563,7 @@
       "madk1d",
       "Lida"
     ],
-    "duration_ms": 2.4006666666666665,
+    "duration_ms": 2,
     "albums": [
       "Always"
     ]
@@ -496,7 +574,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 3.487,
+    "duration_ms": 3,
     "albums": [
       "Brianstorm"
     ]
@@ -508,7 +586,7 @@
       "Винтаж",
       "Fargo"
     ],
-    "duration_ms": 2.533333333333333,
+    "duration_ms": 2,
     "albums": [
       "F63.9"
     ]
@@ -520,7 +598,7 @@
       "Lil Peep",
       "XXXTentacion"
     ],
-    "duration_ms": 3.2733333333333334,
+    "duration_ms": 3,
     "albums": [
       "Come Over When You're Sober, Pt. 2"
     ]
@@ -531,7 +609,7 @@
     "artists": [
       "Donkeyboy"
     ],
-    "duration_ms": 3.421,
+    "duration_ms": 3,
     "albums": [
       "Silver Moon"
     ]
@@ -542,7 +620,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 2.438,
+    "duration_ms": 2,
     "albums": [
       "Built to Last: The Collection"
     ]
@@ -553,7 +631,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 3.4103333333333334,
+    "duration_ms": 3,
     "albums": [
       "Хмурый"
     ]
@@ -567,7 +645,7 @@
       "ARTEM SHILOVETS",
       "Wipo"
     ],
-    "duration_ms": 2.5171666666666668,
+    "duration_ms": 2,
     "albums": [
       "2007 ч.2"
     ]
@@ -578,7 +656,7 @@
     "artists": [
       "Амура"
     ],
-    "duration_ms": 1.819,
+    "duration_ms": 1,
     "albums": [
       "Руки вверх"
     ]
@@ -589,7 +667,7 @@
     "artists": [
       "Quest Pistols Show"
     ],
-    "duration_ms": 3.0456666666666665,
+    "duration_ms": 3,
     "albums": [
       "The Best"
     ]
@@ -600,7 +678,7 @@
     "artists": [
       "Jennifer Lopez"
     ],
-    "duration_ms": 3.692833333333333,
+    "duration_ms": 3,
     "albums": [
       "R&B The Collection Summer 2011"
     ]
@@ -611,7 +689,7 @@
     "artists": [
       "MiikeBeatz"
     ],
-    "duration_ms": 3.7576666666666667,
+    "duration_ms": 3,
     "albums": [
       "Don't talk"
     ]
@@ -622,7 +700,7 @@
     "artists": [
       "Fly Project"
     ],
-    "duration_ms": 3.6,
+    "duration_ms": 3,
     "albums": [
       "Mandala"
     ]
@@ -633,7 +711,7 @@
     "artists": [
       "Wilde Project feat. Matt Blue & Matic"
     ],
-    "duration_ms": 3.816,
+    "duration_ms": 3,
     "albums": [
       "She’s A Maniac"
     ]
@@ -644,7 +722,7 @@
     "artists": [
       "Euringer"
     ],
-    "duration_ms": 3.130333333333333,
+    "duration_ms": 3,
     "albums": [
       "EURINGER"
     ]
@@ -655,7 +733,7 @@
     "artists": [
       "Tribal Ink"
     ],
-    "duration_ms": 3.4896666666666665,
+    "duration_ms": 3,
     "albums": [
       "Surrounded By Freaks"
     ]
@@ -667,7 +745,7 @@
       "Lida",
       "Дмитрий Маликов"
     ],
-    "duration_ms": 2.9061666666666666,
+    "duration_ms": 2,
     "albums": [
       "Я тебе соврал"
     ]
@@ -678,7 +756,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 2.631,
+    "duration_ms": 2,
     "albums": [
       "Дубай"
     ]
@@ -689,7 +767,7 @@
     "artists": [
       "Paula Abdul"
     ],
-    "duration_ms": 3.716666666666667,
+    "duration_ms": 3,
     "albums": [
       "Greatest Hits"
     ]
@@ -700,7 +778,7 @@
     "artists": [
       "Stanton Warriors"
     ],
-    "duration_ms": 4.434166666666667,
+    "duration_ms": 4,
     "albums": [
       "The Warriors"
     ]
@@ -711,7 +789,7 @@
     "artists": [
       "Neon Trees"
     ],
-    "duration_ms": 2.9546666666666668,
+    "duration_ms": 2,
     "albums": [
       "Picture Show"
     ]
@@ -722,7 +800,7 @@
     "artists": [
       "Scandroid"
     ],
-    "duration_ms": 3.970833333333333,
+    "duration_ms": 3,
     "albums": [
       "Scandroid"
     ]
@@ -733,7 +811,7 @@
     "artists": [
       "Леонид Агутин"
     ],
-    "duration_ms": 3.896166666666667,
+    "duration_ms": 3,
     "albums": [
       "TOP 30"
     ]
@@ -744,7 +822,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.4843333333333333,
+    "duration_ms": 3,
     "albums": [
       "Datura"
     ]
@@ -756,7 +834,7 @@
       "Rakhim",
       "NYUSHA"
     ],
-    "duration_ms": 1.852,
+    "duration_ms": 1,
     "albums": [
       "Bella Hadid"
     ]
@@ -767,7 +845,7 @@
     "artists": [
       "Modern Group"
     ],
-    "duration_ms": 4.1555,
+    "duration_ms": 4,
     "albums": [
       "Modern Talking Mania"
     ]
@@ -778,7 +856,7 @@
     "artists": [
       "Ryan Caraveo"
     ],
-    "duration_ms": 2.8781666666666665,
+    "duration_ms": 2,
     "albums": [
       "Maybe They Were Wrong"
     ]
@@ -789,7 +867,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 2.0355,
+    "duration_ms": 2,
     "albums": [
       "Built to Last: The Collection"
     ]
@@ -800,7 +878,7 @@
     "artists": [
       "Haddaway"
     ],
-    "duration_ms": 4.4783333333333335,
+    "duration_ms": 4,
     "albums": [
       "Worlds Greatest 90's Dance"
     ]
@@ -811,7 +889,7 @@
     "artists": [
       "Ryan Oakes"
     ],
-    "duration_ms": 3.028,
+    "duration_ms": 3,
     "albums": [
       "SLUMBERLAND"
     ]
@@ -822,7 +900,7 @@
     "artists": [
       "The Subways"
     ],
-    "duration_ms": 2.8115,
+    "duration_ms": 2,
     "albums": [
       "All Together Now: The Football Album"
     ]
@@ -833,7 +911,7 @@
     "artists": [
       "Thirty Seconds to Mars"
     ],
-    "duration_ms": 3.875,
+    "duration_ms": 3,
     "albums": [
       "A Beautiful Lie"
     ]
@@ -844,7 +922,7 @@
     "artists": [
       "Bring Me The Horizon"
     ],
-    "duration_ms": 3.841666666666667,
+    "duration_ms": 3,
     "albums": [
       "Sempiternal"
     ]
@@ -855,7 +933,7 @@
     "artists": [
       "Lil Deal"
     ],
-    "duration_ms": 3.2426666666666666,
+    "duration_ms": 3,
     "albums": [
       "Falling Down"
     ]
@@ -866,7 +944,7 @@
     "artists": [
       "Memphis May Fire"
     ],
-    "duration_ms": 2.7623333333333333,
+    "duration_ms": 2,
     "albums": [
       "Faint"
     ]
@@ -877,7 +955,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 4.0873333333333335,
+    "duration_ms": 4,
     "albums": [
       "GLUE"
     ]
@@ -888,7 +966,7 @@
     "artists": [
       "Limp Bizkit"
     ],
-    "duration_ms": 4.558333333333334,
+    "duration_ms": 4,
     "albums": [
       "Results May Vary"
     ]
@@ -900,7 +978,7 @@
       "Lucenzo",
       "Don Omar"
     ],
-    "duration_ms": 3.2681666666666667,
+    "duration_ms": 3,
     "albums": [
       "Danza Kuduro 2019"
     ]
@@ -911,7 +989,7 @@
     "artists": [
       "SLAVA SKRIPKA"
     ],
-    "duration_ms": 2.1625,
+    "duration_ms": 2,
     "albums": [
       "Бобр"
     ]
@@ -924,7 +1002,7 @@
       "Machine Gun Kelly",
       "Travis Barker"
     ],
-    "duration_ms": 2.4,
+    "duration_ms": 2,
     "albums": [
       "I'm Gone"
     ]
@@ -935,7 +1013,7 @@
     "artists": [
       "Kieran Alleyne"
     ],
-    "duration_ms": 3.6253333333333333,
+    "duration_ms": 3,
     "albums": [
       "Breaking Good - EP"
     ]
@@ -946,7 +1024,7 @@
     "artists": [
       "Modern Group"
     ],
-    "duration_ms": 5.108333333333333,
+    "duration_ms": 5,
     "albums": [
       "Modern Talking Mania"
     ]
@@ -958,7 +1036,7 @@
       "EVASHA",
       "Mag Luzi"
     ],
-    "duration_ms": 1.8781666666666668,
+    "duration_ms": 1,
     "albums": [
       "Она и я"
     ]
@@ -970,7 +1048,7 @@
       "5sta Family",
       "Eva Miller"
     ],
-    "duration_ms": 2.716666666666667,
+    "duration_ms": 2,
     "albums": [
       "Зачем"
     ]
@@ -981,7 +1059,7 @@
     "artists": [
       "SLAVA MARLOW"
     ],
-    "duration_ms": 1.9598333333333333,
+    "duration_ms": 1,
     "albums": [
       "МИЛЛИОН ДОРОГ"
     ]
@@ -994,7 +1072,7 @@
       "Nicky MacKenzie",
       "Hahlweg, Nicky MacKenzie"
     ],
-    "duration_ms": 4.524333333333334,
+    "duration_ms": 4,
     "albums": [
       "NOSTALGIA: REIMAGINED"
     ]
@@ -1005,7 +1083,7 @@
     "artists": [
       "Helmut"
     ],
-    "duration_ms": 5.45,
+    "duration_ms": 5,
     "albums": [
       "Our Walls"
     ]
@@ -1017,7 +1095,7 @@
       "Noize MC",
       "Miss Baas"
     ],
-    "duration_ms": 4.036666666666667,
+    "duration_ms": 4,
     "albums": [
       "Царь горы"
     ]
@@ -1028,7 +1106,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.3415,
+    "duration_ms": 4,
     "albums": [
       "Не все дома"
     ]
@@ -1039,7 +1117,7 @@
     "artists": [
       "The Blue Stones"
     ],
-    "duration_ms": 4.187666666666667,
+    "duration_ms": 4,
     "albums": [
       "Hidden Gems"
     ]
@@ -1050,7 +1128,7 @@
     "artists": [
       "алёна швец."
     ],
-    "duration_ms": 2.3181666666666665,
+    "duration_ms": 2,
     "albums": [
       "капучино"
     ]
@@ -1063,7 +1141,7 @@
       "Bonkaz",
       "Paigey Cakey"
     ],
-    "duration_ms": 3.62,
+    "duration_ms": 3,
     "albums": [
       "Comfortable"
     ]
@@ -1074,7 +1152,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 2.697,
+    "duration_ms": 2,
     "albums": [
       "Better Days: The Collection"
     ]
@@ -1085,7 +1163,7 @@
     "artists": [
       "Леонид Агутин"
     ],
-    "duration_ms": 4.3225,
+    "duration_ms": 4,
     "albums": [
       "Остров (Dj Bubblegum & Фёдор Фомин Remix)"
     ]
@@ -1096,7 +1174,7 @@
     "artists": [
       "Love Fame Tragedy"
     ],
-    "duration_ms": 3.3978333333333333,
+    "duration_ms": 3,
     "albums": [
       "Wherever I Go, I Want To Leave"
     ]
@@ -1109,7 +1187,7 @@
       "nikiiiiija",
       "iPXL"
     ],
-    "duration_ms": 2.5196666666666667,
+    "duration_ms": 2,
     "albums": [
       "Tokyo 2006"
     ]
@@ -1120,7 +1198,7 @@
     "artists": [
       "Foster The People"
     ],
-    "duration_ms": 3.9955,
+    "duration_ms": 3,
     "albums": [
       "Torches X"
     ]
@@ -1131,7 +1209,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 3.194166666666667,
+    "duration_ms": 3,
     "albums": [
       "до и после"
     ]
@@ -1143,7 +1221,7 @@
       "KARA KROSS",
       "Мумий Тролль"
     ],
-    "duration_ms": 2.4271666666666665,
+    "duration_ms": 2,
     "albums": [
       "Время утекай"
     ]
@@ -1154,7 +1232,7 @@
     "artists": [
       "Kanye West"
     ],
-    "duration_ms": 5.0263333333333335,
+    "duration_ms": 5,
     "albums": [
       "The Life Of Pablo"
     ]
@@ -1165,7 +1243,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 2.2933333333333334,
+    "duration_ms": 2,
     "albums": [
       "Built to Last: The Collection"
     ]
@@ -1176,7 +1254,7 @@
     "artists": [
       "Kanye West"
     ],
-    "duration_ms": 3.5166666666666666,
+    "duration_ms": 3,
     "albums": [
       "808s & Heartbreak"
     ]
@@ -1187,7 +1265,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.442,
+    "duration_ms": 4,
     "albums": [
       "Не все дома"
     ]
@@ -1198,7 +1276,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.851,
+    "duration_ms": 3,
     "albums": [
       "Не все дома"
     ]
@@ -1209,7 +1287,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.169333333333333,
+    "duration_ms": 4,
     "albums": [
       "Не все дома"
     ]
@@ -1221,7 +1299,7 @@
       "Noize MC",
       "Иван Алексеев"
     ],
-    "duration_ms": 3.050333333333333,
+    "duration_ms": 3,
     "albums": [
       "Следы на спине"
     ]
@@ -1232,7 +1310,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.7093333333333334,
+    "duration_ms": 3,
     "albums": [
       "Целую"
     ]
@@ -1243,7 +1321,7 @@
     "artists": [
       "Jason Weaver"
     ],
-    "duration_ms": 3.2103333333333333,
+    "duration_ms": 3,
     "albums": [
       "I'm Bored"
     ]
@@ -1254,7 +1332,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 3.6235,
+    "duration_ms": 3,
     "albums": [
       "Best of Me: The Collection"
     ]
@@ -1265,7 +1343,7 @@
     "artists": [
       "Normandie"
     ],
-    "duration_ms": 3.989333333333333,
+    "duration_ms": 3,
     "albums": [
       "Inguz"
     ]
@@ -1276,7 +1354,7 @@
     "artists": [
       "Big Baby Tape"
     ],
-    "duration_ms": 3.0221666666666667,
+    "duration_ms": 3,
     "albums": [
       "VARSKVA"
     ]
@@ -1287,7 +1365,7 @@
     "artists": [
       "Kelvyn Colt"
     ],
-    "duration_ms": 2.257,
+    "duration_ms": 2,
     "albums": [
       "Love before Death"
     ]
@@ -1298,7 +1376,7 @@
     "artists": [
       "T.I."
     ],
-    "duration_ms": 5.306,
+    "duration_ms": 5,
     "albums": [
       "No Mercy"
     ]
@@ -1311,7 +1389,7 @@
       "Juicy J",
       "Jonathan \"JR\" Rotem"
     ],
-    "duration_ms": 3.3823333333333334,
+    "duration_ms": 3,
     "albums": [
       "Make America Psycho Again"
     ]
@@ -1322,7 +1400,7 @@
     "artists": [
       "Ryan Caraveo"
     ],
-    "duration_ms": 2.5135,
+    "duration_ms": 2,
     "albums": [
       "Cannonball"
     ]
@@ -1334,7 +1412,7 @@
       "Lil Wayne",
       "Drake"
     ],
-    "duration_ms": 5.097333333333333,
+    "duration_ms": 5,
     "albums": [
       "Tha Carter IV"
     ]
@@ -1345,7 +1423,7 @@
     "artists": [
       "Cotis"
     ],
-    "duration_ms": 2.879,
+    "duration_ms": 2,
     "albums": [
       "RECKLESS"
     ]
@@ -1356,7 +1434,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 2.482,
+    "duration_ms": 2,
     "albums": [
       "Город поёт (Саундтрек к фильму «Пророк. История Александра Пушкина»)"
     ]
@@ -1367,7 +1445,7 @@
     "artists": [
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.5541666666666667,
+    "duration_ms": 2,
     "albums": [
       "ALISHER"
     ]
@@ -1378,7 +1456,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 3.465,
+    "duration_ms": 3,
     "albums": [
       "Чувство ловкости"
     ]
@@ -1389,7 +1467,7 @@
     "artists": [
       "SLAVA MARLOW"
     ],
-    "duration_ms": 1.5548333333333333,
+    "duration_ms": 1,
     "albums": [
       "ТУЗИК"
     ]
@@ -1400,7 +1478,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.336,
+    "duration_ms": 4,
     "albums": [
       "Новый альбом"
     ]
@@ -1411,7 +1489,7 @@
     "artists": [
       "The Red Jumpsuit Apparatus"
     ],
-    "duration_ms": 3.2,
+    "duration_ms": 3,
     "albums": [
       "Don't You Fake It"
     ]
@@ -1422,21 +1500,9 @@
     "artists": [
       "Betcha"
     ],
-    "duration_ms": 3.1308333333333334,
+    "duration_ms": 3,
     "albums": [
       "Falling"
-    ]
-  },
-  {
-    "track_id": "116461078:26991667",
-    "title": "Voice Notes",
-    "artists": [
-      "Demi the Daredevil",
-      "Ethan Gander"
-    ],
-    "duration_ms": 2.057,
-    "albums": [
-      "Voice Notes"
     ]
   },
   {
@@ -1445,7 +1511,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 3.1738333333333335,
+    "duration_ms": 3,
     "albums": [
       "Q203"
     ]
@@ -1456,7 +1522,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.598333333333333,
+    "duration_ms": 2,
     "albums": [
       "Новый альбом"
     ]
@@ -1468,7 +1534,7 @@
       "Noize MC",
       "Staisha"
     ],
-    "duration_ms": 3.106,
+    "duration_ms": 3,
     "albums": [
       "Последний альбом"
     ]
@@ -1479,7 +1545,7 @@
     "artists": [
       "Ночные Снайперы"
     ],
-    "duration_ms": 3.9768333333333334,
+    "duration_ms": 3,
     "albums": [
       "рубеж"
     ]
@@ -1490,7 +1556,7 @@
     "artists": [
       "Sueco"
     ],
-    "duration_ms": 1.9033333333333333,
+    "duration_ms": 1,
     "albums": [
       "It Was Fun While It Lasted"
     ]
@@ -1501,20 +1567,20 @@
     "artists": [
       "daryana"
     ],
-    "duration_ms": 1.6751666666666667,
+    "duration_ms": 1,
     "albums": [
       "POP EMPIRE"
     ]
   },
   {
-    "track_id": "6098688:670800",
+    "track_id": "6098688:12132488",
     "title": "Я счастливый",
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 3.961333333333333,
+    "duration_ms": 3,
     "albums": [
-      "Полный вперёд!"
+      "The Best"
     ]
   },
   {
@@ -1523,7 +1589,7 @@
     "artists": [
       "Bee Gees"
     ],
-    "duration_ms": 4.965333333333334,
+    "duration_ms": 4,
     "albums": [
       "Saturday Night Fever"
     ]
@@ -1534,7 +1600,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 3.6985,
+    "duration_ms": 3,
     "albums": [
       "Starboy"
     ]
@@ -1545,7 +1611,7 @@
     "artists": [
       "Maroon 5"
     ],
-    "duration_ms": 3.429,
+    "duration_ms": 3,
     "albums": [
       "Songs About Jane: 10th Anniversary Edition"
     ]
@@ -1556,7 +1622,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 2.6853333333333333,
+    "duration_ms": 2,
     "albums": [
       "AM"
     ]
@@ -1567,7 +1633,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.895,
+    "duration_ms": 3,
     "albums": [
       "Выход в город"
     ]
@@ -1578,7 +1644,7 @@
     "artists": [
       "ANTH"
     ],
-    "duration_ms": 2.7295,
+    "duration_ms": 2,
     "albums": [
       "Take What You Want from Me"
     ]
@@ -1589,7 +1655,7 @@
     "artists": [
       "Полина Гагарина"
     ],
-    "duration_ms": 3.5761666666666665,
+    "duration_ms": 3,
     "albums": [
       "Шагай"
     ]
@@ -1601,7 +1667,7 @@
       "Earth, Wind & Fire",
       "The Emotions"
     ],
-    "duration_ms": 4.777666666666667,
+    "duration_ms": 4,
     "albums": [
       "The Eternal Dance"
     ]
@@ -1612,7 +1678,7 @@
     "artists": [
       "Beauty School Dropout"
     ],
-    "duration_ms": 3.1918333333333333,
+    "duration_ms": 3,
     "albums": [
       "BOYS DO CRY"
     ]
@@ -1623,7 +1689,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 2.671333333333333,
+    "duration_ms": 2,
     "albums": [
       "Полночь"
     ]
@@ -1634,7 +1700,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 3.3145,
+    "duration_ms": 3,
     "albums": [
       "Forte & Piano"
     ]
@@ -1645,7 +1711,7 @@
     "artists": [
       "ЩЕНКИ"
     ],
-    "duration_ms": 2.5895,
+    "duration_ms": 2,
     "albums": [
       "Цвет времени"
     ]
@@ -1657,7 +1723,7 @@
       "Электрофорез",
       "superkomfort"
     ],
-    "duration_ms": 2.3943333333333334,
+    "duration_ms": 2,
     "albums": [
       "505"
     ]
@@ -1668,7 +1734,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 2.8978333333333333,
+    "duration_ms": 2,
     "albums": [
       "первая ошибка"
     ]
@@ -1679,7 +1745,7 @@
     "artists": [
       "Geek Music"
     ],
-    "duration_ms": 2.9743333333333335,
+    "duration_ms": 2,
     "albums": [
       "Death Note - L's Theme - Main Theme"
     ]
@@ -1690,7 +1756,7 @@
     "artists": [
       "bullish"
     ],
-    "duration_ms": 2.631,
+    "duration_ms": 2,
     "albums": [
       "too much"
     ]
@@ -1701,7 +1767,7 @@
     "artists": [
       "Josh Golden"
     ],
-    "duration_ms": 2.937,
+    "duration_ms": 2,
     "albums": [
       "heaven come"
     ]
@@ -1712,7 +1778,7 @@
     "artists": [
       "The Highwomen"
     ],
-    "duration_ms": 4.858833333333333,
+    "duration_ms": 4,
     "albums": [
       "The Chain"
     ]
@@ -1724,7 +1790,7 @@
       "Noize MC",
       "Давид Казарян"
     ],
-    "duration_ms": 3.9075,
+    "duration_ms": 3,
     "albums": [
       "Protivo Gunz"
     ]
@@ -1738,7 +1804,7 @@
       "Макс",
       "Пашок"
     ],
-    "duration_ms": 4.183,
+    "duration_ms": 4,
     "albums": [
       "Protivo Gunz"
     ]
@@ -1749,7 +1815,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 3.2681666666666667,
+    "duration_ms": 3,
     "albums": [
       "Q203"
     ]
@@ -1760,7 +1826,7 @@
     "artists": [
       "Anacondaz"
     ],
-    "duration_ms": 3.2916666666666665,
+    "duration_ms": 3,
     "albums": [
       "Выходи за меня"
     ]
@@ -1771,7 +1837,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.1746666666666665,
+    "duration_ms": 3,
     "albums": [
       "Sundiver"
     ]
@@ -1782,7 +1848,7 @@
     "artists": [
       "Bring Me The Horizon"
     ],
-    "duration_ms": 3.8023333333333333,
+    "duration_ms": 3,
     "albums": [
       "Sempiternal"
     ]
@@ -1793,7 +1859,7 @@
     "artists": [
       "Normandie"
     ],
-    "duration_ms": 3.6681666666666666,
+    "duration_ms": 3,
     "albums": [
       "White Flag"
     ]
@@ -1804,7 +1870,7 @@
     "artists": [
       "Pink Elefants"
     ],
-    "duration_ms": 4.104333333333333,
+    "duration_ms": 4,
     "albums": [
       "And Neon Lights"
     ]
@@ -1815,7 +1881,7 @@
     "artists": [
       "I Prevail"
     ],
-    "duration_ms": 2.4085,
+    "duration_ms": 2,
     "albums": [
       "TRAUMA"
     ]
@@ -1826,7 +1892,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 3.797,
+    "duration_ms": 3,
     "albums": [
       "Forte & Piano"
     ]
@@ -1837,7 +1903,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 3.2171666666666665,
+    "duration_ms": 3,
     "albums": [
       "AM"
     ]
@@ -1849,7 +1915,7 @@
       "Staisha",
       "Noize MC"
     ],
-    "duration_ms": 2.816,
+    "duration_ms": 2,
     "albums": [
       "Невошедшее и невышедшее"
     ]
@@ -1860,7 +1926,7 @@
     "artists": [
       "STim"
     ],
-    "duration_ms": 2.4375,
+    "duration_ms": 2,
     "albums": [
       "reincarnated"
     ]
@@ -1871,7 +1937,7 @@
     "artists": [
       "Voila"
     ],
-    "duration_ms": 2.724,
+    "duration_ms": 2,
     "albums": [
       "Long Story Short"
     ]
@@ -1882,7 +1948,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.497,
+    "duration_ms": 3,
     "albums": [
       "The Retaliators Deluxe"
     ]
@@ -1893,7 +1959,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.380333333333334,
+    "duration_ms": 4,
     "albums": [
       "Розыгрыш (Из к/ф «Розыгрыш»)"
     ]
@@ -1904,7 +1970,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.9608333333333334,
+    "duration_ms": 2,
     "albums": [
       "Protivo Gunz"
     ]
@@ -1915,7 +1981,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.7531666666666665,
+    "duration_ms": 2,
     "albums": [
       "The Greatest Hits, Vol. 1"
     ]
@@ -1926,7 +1992,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.8726666666666665,
+    "duration_ms": 2,
     "albums": [
       "Царь горы"
     ]
@@ -1937,7 +2003,7 @@
     "artists": [
       "Chri$Tian Gate$"
     ],
-    "duration_ms": 1.875,
+    "duration_ms": 1,
     "albums": [
       "NUMB"
     ]
@@ -1948,7 +2014,7 @@
     "artists": [
       "Normandie"
     ],
-    "duration_ms": 3.4085,
+    "duration_ms": 3,
     "albums": [
       "Dark & Beautiful Secrets"
     ]
@@ -1959,7 +2025,7 @@
     "artists": [
       "Paloma"
     ],
-    "duration_ms": 3.4335,
+    "duration_ms": 3,
     "albums": [
       "Lock Me Up"
     ]
@@ -1970,7 +2036,7 @@
     "artists": [
       "WizTheMc"
     ],
-    "duration_ms": 2.178166666666667,
+    "duration_ms": 2,
     "albums": [
       "Where Silence Feels Good"
     ]
@@ -1981,7 +2047,7 @@
     "artists": [
       "M'Dee"
     ],
-    "duration_ms": 2.9233333333333333,
+    "duration_ms": 2,
     "albums": [
       "delete"
     ]
@@ -1992,7 +2058,7 @@
     "artists": [
       "Странное исполнение"
     ],
-    "duration_ms": 2.043,
+    "duration_ms": 2,
     "albums": [
       "Я так боюсь быть один"
     ]
@@ -2003,7 +2069,7 @@
     "artists": [
       "Boon"
     ],
-    "duration_ms": 2.067,
+    "duration_ms": 2,
     "albums": [
       "Sun Goes Down"
     ]
@@ -2014,7 +2080,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 4.346166666666667,
+    "duration_ms": 4,
     "albums": [
       "Origins"
     ]
@@ -2025,7 +2091,7 @@
     "artists": [
       "Chri$Tian Gate$"
     ],
-    "duration_ms": 1.9466666666666668,
+    "duration_ms": 1,
     "albums": [
       "No Strings Attached"
     ]
@@ -2036,7 +2102,7 @@
     "artists": [
       "ТРАВМА"
     ],
-    "duration_ms": 1.7006666666666668,
+    "duration_ms": 1,
     "albums": [
       "НОЧНЫЕ ПРИЗНАНИЯ 2010"
     ]
@@ -2047,7 +2113,7 @@
     "artists": [
       "The Man Who"
     ],
-    "duration_ms": 3.6008333333333336,
+    "duration_ms": 3,
     "albums": [
       "Bet on You"
     ]
@@ -2058,7 +2124,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.8295,
+    "duration_ms": 2,
     "albums": [
       "Царь горы"
     ]
@@ -2069,7 +2135,7 @@
     "artists": [
       "NEFFEX"
     ],
-    "duration_ms": 3.913,
+    "duration_ms": 3,
     "albums": [
       "Change: The Collection"
     ]
@@ -2080,7 +2146,7 @@
     "artists": [
       "OITZMANN"
     ],
-    "duration_ms": 3.325,
+    "duration_ms": 3,
     "albums": [
       "Забыл О Главном"
     ]
@@ -2092,7 +2158,7 @@
       "renforshort",
       "Mateus Asato"
     ],
-    "duration_ms": 3.3205,
+    "duration_ms": 3,
     "albums": [
       "feel good inc."
     ]
@@ -2103,7 +2169,7 @@
     "artists": [
       "Alexey Krivdin"
     ],
-    "duration_ms": 3.6086666666666667,
+    "duration_ms": 3,
     "albums": [
       "Земля"
     ]
@@ -2115,7 +2181,7 @@
       "Imagine Dragons",
       "Lil Wayne"
     ],
-    "duration_ms": 3.6616666666666666,
+    "duration_ms": 3,
     "albums": [
       "Believer"
     ]
@@ -2126,7 +2192,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.0,
+    "duration_ms": 4,
     "albums": [
       "*кустик*"
     ]
@@ -2137,7 +2203,7 @@
     "artists": [
       "Карандаш"
     ],
-    "duration_ms": 2.7018333333333335,
+    "duration_ms": 2,
     "albums": [
       "Американщина 2"
     ]
@@ -2148,7 +2214,7 @@
     "artists": [
       "Diamante"
     ],
-    "duration_ms": 3.0888333333333335,
+    "duration_ms": 3,
     "albums": [
       "American Dream"
     ]
@@ -2159,7 +2225,7 @@
     "artists": [
       "кинопамять"
     ],
-    "duration_ms": 2.303166666666667,
+    "duration_ms": 2,
     "albums": [
       "Киноплёнка длиною в жизнь"
     ]
@@ -2170,7 +2236,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.210166666666667,
+    "duration_ms": 3,
     "albums": [
       "The Greatest Hits, Vol. 1"
     ]
@@ -2181,7 +2247,7 @@
     "artists": [
       "Chri$Tian Gate$"
     ],
-    "duration_ms": 1.927,
+    "duration_ms": 1,
     "albums": [
       "Why Do I Hear Breathing?"
     ]
@@ -2192,7 +2258,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 2.6763333333333335,
+    "duration_ms": 2,
     "albums": [
       "хеппи-энд"
     ]
@@ -2203,7 +2269,7 @@
     "artists": [
       "The Unplugged Band"
     ],
-    "duration_ms": 3.7813333333333334,
+    "duration_ms": 3,
     "albums": [
       "Uncovered, Vol. 2"
     ]
@@ -2215,7 +2281,7 @@
       "AnnenMayKantereit",
       "Giant Rooks"
     ],
-    "duration_ms": 4.488666666666667,
+    "duration_ms": 4,
     "albums": [
       "Tom's Diner"
     ]
@@ -2227,7 +2293,7 @@
       "Lida",
       "Молодой Платон"
     ],
-    "duration_ms": 2.5845,
+    "duration_ms": 2,
     "albums": [
       "Не тусоваться"
     ]
@@ -2238,7 +2304,7 @@
     "artists": [
       "Chri$Tian Gate$"
     ],
-    "duration_ms": 2.607666666666667,
+    "duration_ms": 2,
     "albums": [
       "No Strings Attached"
     ]
@@ -2249,7 +2315,7 @@
     "artists": [
       "The Exies"
     ],
-    "duration_ms": 3.306,
+    "duration_ms": 3,
     "albums": [
       "Head For The Door"
     ]
@@ -2260,7 +2326,7 @@
     "artists": [
       "Hideaway Beatz 200"
     ],
-    "duration_ms": 2.762,
+    "duration_ms": 2,
     "albums": [
       "Fast Lane Tribute Trackz Vol 2"
     ]
@@ -2271,7 +2337,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 2.749,
+    "duration_ms": 2,
     "albums": [
       "гравитация"
     ]
@@ -2282,7 +2348,7 @@
     "artists": [
       "без обид"
     ],
-    "duration_ms": 2.84,
+    "duration_ms": 2,
     "albums": [
       "Полночь"
     ]
@@ -2293,7 +2359,7 @@
     "artists": [
       "SEVER"
     ],
-    "duration_ms": 3.175,
+    "duration_ms": 3,
     "albums": [
       "Broken"
     ]
@@ -2305,7 +2371,7 @@
       "Женя Трофимов",
       "Комната культуры"
     ],
-    "duration_ms": 2.9923333333333333,
+    "duration_ms": 2,
     "albums": [
       "Поезда"
     ]
@@ -2316,7 +2382,7 @@
     "artists": [
       "OLLIE"
     ],
-    "duration_ms": 3.6125,
+    "duration_ms": 3,
     "albums": [
       "Fake"
     ]
@@ -2327,7 +2393,7 @@
     "artists": [
       "Mr. Popular"
     ],
-    "duration_ms": 2.893,
+    "duration_ms": 2,
     "albums": [
       "Flair For The Dramatic"
     ]
@@ -2338,7 +2404,7 @@
     "artists": [
       "астра"
     ],
-    "duration_ms": 3.848,
+    "duration_ms": 3,
     "albums": [
       "начало"
     ]
@@ -2349,7 +2415,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.0403333333333333,
+    "duration_ms": 3,
     "albums": [
       "См. рис. 2"
     ]
@@ -2360,7 +2426,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.9661666666666666,
+    "duration_ms": 2,
     "albums": [
       "Царь горы"
     ]
@@ -2371,7 +2437,7 @@
     "artists": [
       "Catch Your Breath"
     ],
-    "duration_ms": 3.362,
+    "duration_ms": 3,
     "albums": [
       "Shame On Me"
     ]
@@ -2382,7 +2448,7 @@
     "artists": [
       "Normandie"
     ],
-    "duration_ms": 3.6421666666666668,
+    "duration_ms": 3,
     "albums": [
       "White Flag"
     ]
@@ -2393,7 +2459,7 @@
     "artists": [
       "Nine Lashes"
     ],
-    "duration_ms": 4.029333333333334,
+    "duration_ms": 4,
     "albums": [
       "World We View"
     ]
@@ -2404,7 +2470,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.145,
+    "duration_ms": 3,
     "albums": [
       "Welcome to the Neighbourhood"
     ]
@@ -2415,7 +2481,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.8168333333333333,
+    "duration_ms": 3,
     "albums": [
       "Sundiver"
     ]
@@ -2426,7 +2492,7 @@
     "artists": [
       "Leap"
     ],
-    "duration_ms": 2.8893333333333335,
+    "duration_ms": 2,
     "albums": [
       "Where the Silence Goes"
     ]
@@ -2437,7 +2503,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.771166666666667,
+    "duration_ms": 3,
     "albums": [
       "Покажите Солнце"
     ]
@@ -2448,7 +2514,7 @@
     "artists": [
       "Whether, I"
     ],
-    "duration_ms": 3.4288333333333334,
+    "duration_ms": 3,
     "albums": [
       "In My Head"
     ]
@@ -2459,7 +2525,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.894833333333333,
+    "duration_ms": 3,
     "albums": [
       "Последний альбом"
     ]
@@ -2471,7 +2537,7 @@
       "Abyss, Watching Me",
       "Toli Wild"
     ],
-    "duration_ms": 3.8026666666666666,
+    "duration_ms": 3,
     "albums": [
       "Nix"
     ]
@@ -2482,7 +2548,7 @@
     "artists": [
       "Chri$Tian Gate$"
     ],
-    "duration_ms": 1.75,
+    "duration_ms": 1,
     "albums": [
       "No Strings Attached"
     ]
@@ -2493,7 +2559,7 @@
     "artists": [
       "Until I Wake"
     ],
-    "duration_ms": 3.4975,
+    "duration_ms": 3,
     "albums": [
       "Octane"
     ]
@@ -2504,7 +2570,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 4.0808333333333335,
+    "duration_ms": 4,
     "albums": [
       "GLUE"
     ]
@@ -2515,7 +2581,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 5.0328333333333335,
+    "duration_ms": 5,
     "albums": [
       "Nevermind"
     ]
@@ -2526,7 +2592,7 @@
     "artists": [
       "The Man Who"
     ],
-    "duration_ms": 3.3226666666666667,
+    "duration_ms": 3,
     "albums": [
       "Bet on You"
     ]
@@ -2537,7 +2603,7 @@
     "artists": [
       "RED JUMPSUIT APPARATUS"
     ],
-    "duration_ms": 3.1598333333333333,
+    "duration_ms": 3,
     "albums": [
       "Rock Gaming"
     ]
@@ -2548,7 +2614,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 2.858833333333333,
+    "duration_ms": 2,
     "albums": [
       "Take Off Your Pants And Jacket"
     ]
@@ -2559,7 +2625,7 @@
     "artists": [
       "Hoobastank"
     ],
-    "duration_ms": 2.718166666666667,
+    "duration_ms": 2,
     "albums": [
       "The Reason"
     ]
@@ -2570,7 +2636,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 2.654166666666667,
+    "duration_ms": 2,
     "albums": [
       "Does This Look Infected?"
     ]
@@ -2581,7 +2647,7 @@
     "artists": [
       "Billy Talent"
     ],
-    "duration_ms": 3.187,
+    "duration_ms": 3,
     "albums": [
       "Billy Talent II"
     ]
@@ -2592,7 +2658,7 @@
     "artists": [
       "Maddie Ross"
     ],
-    "duration_ms": 3.1653333333333333,
+    "duration_ms": 3,
     "albums": [
       "Scotty Doesn't Know"
     ]
@@ -2603,7 +2669,7 @@
     "artists": [
       "The Shiffers"
     ],
-    "duration_ms": 2.9523333333333333,
+    "duration_ms": 2,
     "albums": [
       "The Best Of The Shiffers, Vol. 1"
     ]
@@ -2614,7 +2680,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 2.8168333333333333,
+    "duration_ms": 2,
     "albums": [
       "Три внутри"
     ]
@@ -2625,7 +2691,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.957666666666667,
+    "duration_ms": 3,
     "albums": [
       "Выход в город"
     ]
@@ -2636,7 +2702,7 @@
     "artists": [
       "Hollywood Undead"
     ],
-    "duration_ms": 3.233833333333333,
+    "duration_ms": 3,
     "albums": [
       "Swan Songs"
     ]
@@ -2648,7 +2714,7 @@
       "Nina Simone",
       "Groovefinder"
     ],
-    "duration_ms": 3.3235,
+    "duration_ms": 3,
     "albums": [
       "Essential - Girls Night In"
     ]
@@ -2659,7 +2725,7 @@
     "artists": [
       "ВАДА"
     ],
-    "duration_ms": 5.936,
+    "duration_ms": 5,
     "albums": [
       "Что за тобой?"
     ]
@@ -2670,7 +2736,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 4.165333333333334,
+    "duration_ms": 4,
     "albums": [
       "Человеко-часы. Deluxe Version"
     ]
@@ -2681,7 +2747,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 4.723,
+    "duration_ms": 4,
     "albums": [
       "Комбинация"
     ]
@@ -2693,7 +2759,7 @@
       "Винтаж",
       "hosy"
     ],
-    "duration_ms": 2.345833333333333,
+    "duration_ms": 2,
     "albums": [
       "F63.9"
     ]
@@ -2704,7 +2770,7 @@
     "artists": [
       "The Beaches"
     ],
-    "duration_ms": 3.5841666666666665,
+    "duration_ms": 3,
     "albums": [
       "The Professional"
     ]
@@ -2715,7 +2781,7 @@
     "artists": [
       "The Beaches"
     ],
-    "duration_ms": 3.7693333333333334,
+    "duration_ms": 3,
     "albums": [
       "Future Lovers - E.P."
     ]
@@ -2726,7 +2792,7 @@
     "artists": [
       "ЛСП"
     ],
-    "duration_ms": 2.6353333333333335,
+    "duration_ms": 2,
     "albums": [
       "Бриллианты"
     ]
@@ -2738,7 +2804,7 @@
       "Noize MC",
       "White Punk"
     ],
-    "duration_ms": 3.3408333333333333,
+    "duration_ms": 3,
     "albums": [
       "Выход в город"
     ]
@@ -2750,7 +2816,7 @@
       "White Punk",
       "Noize MC"
     ],
-    "duration_ms": 2.457,
+    "duration_ms": 2,
     "albums": [
       "Сириус 2.0."
     ]
@@ -2761,7 +2827,7 @@
     "artists": [
       "SALUKI"
     ],
-    "duration_ms": 3.0315,
+    "duration_ms": 3,
     "albums": [
       "WILD EA$T"
     ]
@@ -2772,7 +2838,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.4221666666666666,
+    "duration_ms": 3,
     "albums": [
       "GLUE"
     ]
@@ -2783,7 +2849,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.546666666666667,
+    "duration_ms": 2,
     "albums": [
       "LOVESONGS"
     ]
@@ -2797,7 +2863,7 @@
       "ARTEM SHILOVETS",
       "xxxmanera"
     ],
-    "duration_ms": 3.3103333333333333,
+    "duration_ms": 3,
     "albums": [
       "2007 ч.1"
     ]
@@ -2809,7 +2875,7 @@
       "Nelly Furtado",
       "Timbaland"
     ],
-    "duration_ms": 3.6875,
+    "duration_ms": 3,
     "albums": [
       "Best Of The Best"
     ]
@@ -2820,7 +2886,7 @@
     "artists": [
       "Flash Ki"
     ],
-    "duration_ms": 3.6231666666666666,
+    "duration_ms": 3,
     "albums": [
       "Get Lucky - EP"
     ]
@@ -2831,7 +2897,7 @@
     "artists": [
       "Hideaway Beatz 200"
     ],
-    "duration_ms": 2.762,
+    "duration_ms": 2,
     "albums": [
       "Fast Lane Tribute Trackz Vol 2"
     ]
@@ -2842,7 +2908,7 @@
     "artists": [
       "Kesha"
     ],
-    "duration_ms": 3.3293333333333335,
+    "duration_ms": 3,
     "albums": [
       "TiK-Tok - Remixes"
     ]
@@ -2853,7 +2919,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 3.706166666666667,
+    "duration_ms": 3,
     "albums": [
       "Комбинация"
     ]
@@ -2864,7 +2930,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 4.2395,
+    "duration_ms": 4,
     "albums": [
       "Комбинация"
     ]
@@ -2875,7 +2941,7 @@
     "artists": [
       "Nelly Furtado"
     ],
-    "duration_ms": 3.5808333333333335,
+    "duration_ms": 3,
     "albums": [
       "FITNESS ANNEES 2000"
     ]
@@ -2886,7 +2952,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 4.586666666666667,
+    "duration_ms": 4,
     "albums": [
       "Комбинация"
     ]
@@ -2898,7 +2964,7 @@
       "Mando Diao",
       "Jan Hammer"
     ],
-    "duration_ms": 3.112833333333333,
+    "duration_ms": 3,
     "albums": [
       "Black Saturday"
     ]
@@ -2909,7 +2975,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.8596666666666666,
+    "duration_ms": 3,
     "albums": [
       "Ян"
     ]
@@ -2920,7 +2986,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.1166666666666667,
+    "duration_ms": 3,
     "albums": [
       "Чайлдфри"
     ]
@@ -2931,7 +2997,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 3.926833333333333,
+    "duration_ms": 3,
     "albums": [
       "California"
     ]
@@ -2942,7 +3008,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 3.1843333333333335,
+    "duration_ms": 3,
     "albums": [
       "NINE"
     ]
@@ -2953,7 +3019,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 3.0153333333333334,
+    "duration_ms": 3,
     "albums": [
       "NINE"
     ]
@@ -2964,7 +3030,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 2.771,
+    "duration_ms": 2,
     "albums": [
       "Greatest Hits"
     ]
@@ -2975,7 +3041,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 4.355333333333333,
+    "duration_ms": 4,
     "albums": [
       "Комбинация"
     ]
@@ -2986,7 +3052,7 @@
     "artists": [
       "КОМНАТА БЫВШИХ"
     ],
-    "duration_ms": 2.5275,
+    "duration_ms": 2,
     "albums": [
       "Потеряла"
     ]
@@ -2997,7 +3063,7 @@
     "artists": [
       "Shinedown"
     ],
-    "duration_ms": 4.1395,
+    "duration_ms": 4,
     "albums": [
       "ATTENTION ATTENTION"
     ]
@@ -3008,7 +3074,7 @@
     "artists": [
       "Random Hero"
     ],
-    "duration_ms": 3.0196666666666667,
+    "duration_ms": 3,
     "albums": [
       "Lip Sync"
     ]
@@ -3020,7 +3086,7 @@
       "Boston Manor",
       "John Floreani"
     ],
-    "duration_ms": 3.817,
+    "duration_ms": 3,
     "albums": [
       "Englands Dreaming"
     ]
@@ -3031,7 +3097,7 @@
     "artists": [
       "Sweatshop Union"
     ],
-    "duration_ms": 3.3148333333333335,
+    "duration_ms": 3,
     "albums": [
       "United We Fall"
     ]
@@ -3042,7 +3108,7 @@
     "artists": [
       "KXLLSWXTCH"
     ],
-    "duration_ms": 1.6116666666666666,
+    "duration_ms": 1,
     "albums": [
       "KILL!"
     ]
@@ -3053,7 +3119,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 2.746,
+    "duration_ms": 2,
     "albums": [
       "Minutes to Midnight"
     ]
@@ -3064,7 +3130,7 @@
     "artists": [
       "Three Days Grace"
     ],
-    "duration_ms": 3.489,
+    "duration_ms": 3,
     "albums": [
       "One-X"
     ]
@@ -3075,7 +3141,7 @@
     "artists": [
       "Bullet For My Valentine"
     ],
-    "duration_ms": 5.806333333333333,
+    "duration_ms": 5,
     "albums": [
       "The Poison"
     ]
@@ -3086,7 +3152,7 @@
     "artists": [
       "Mudvayne"
     ],
-    "duration_ms": 3.607,
+    "duration_ms": 3,
     "albums": [
       "Lost and Found"
     ]
@@ -3097,7 +3163,7 @@
     "artists": [
       "Killswitch Engage"
     ],
-    "duration_ms": 4.0795,
+    "duration_ms": 4,
     "albums": [
       "As Daylight Dies"
     ]
@@ -3108,7 +3174,7 @@
     "artists": [
       "Oomph!"
     ],
-    "duration_ms": 4.229,
+    "duration_ms": 4,
     "albums": [
       "Monster"
     ]
@@ -3119,7 +3185,7 @@
     "artists": [
       "Аффинаж"
     ],
-    "duration_ms": 4.0263333333333335,
+    "duration_ms": 4,
     "albums": [
       "Мимо. Ранен. Убит"
     ]
@@ -3130,7 +3196,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.482666666666667,
+    "duration_ms": 3,
     "albums": [
       "Hybrid Theory"
     ]
@@ -3141,7 +3207,7 @@
     "artists": [
       "SWMRS"
     ],
-    "duration_ms": 3.2068333333333334,
+    "duration_ms": 3,
     "albums": [
       "Berkeley's On Fire"
     ]
@@ -3152,7 +3218,7 @@
     "artists": [
       "Annisokay"
     ],
-    "duration_ms": 4.296166666666666,
+    "duration_ms": 4,
     "albums": [
       "Abyss Pt I"
     ]
@@ -3165,7 +3231,7 @@
       "Filipe Pampuri",
       "Kyle Hoffmann"
     ],
-    "duration_ms": 3.5695,
+    "duration_ms": 3,
     "albums": [
       "Not Broken"
     ]
@@ -3176,7 +3242,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.554333333333333,
+    "duration_ms": 3,
     "albums": [
       "Царь горы"
     ]
@@ -3187,7 +3253,7 @@
     "artists": [
       "Falling In Reverse"
     ],
-    "duration_ms": 3.1906666666666665,
+    "duration_ms": 3,
     "albums": [
       "Popular Monster"
     ]
@@ -3198,7 +3264,7 @@
     "artists": [
       "Bonafide"
     ],
-    "duration_ms": 3.5975,
+    "duration_ms": 3,
     "albums": [
       "Dirt Bound"
     ]
@@ -3209,7 +3275,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.866833333333333,
+    "duration_ms": 2,
     "albums": [
       "MISS"
     ]
@@ -3220,7 +3286,7 @@
     "artists": [
       "Normandie"
     ],
-    "duration_ms": 2.9736666666666665,
+    "duration_ms": 2,
     "albums": [
       "White Flag"
     ]
@@ -3231,7 +3297,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.2363333333333335,
+    "duration_ms": 3,
     "albums": [
       "юность в стиле панк"
     ]
@@ -3242,7 +3308,7 @@
     "artists": [
       "The Hellacopters"
     ],
-    "duration_ms": 3.0773333333333333,
+    "duration_ms": 3,
     "albums": [
       "By The Grace Of God"
     ]
@@ -3253,7 +3319,7 @@
     "artists": [
       "Mando Diao"
     ],
-    "duration_ms": 3.1955,
+    "duration_ms": 3,
     "albums": [
       "Good Times"
     ]
@@ -3264,7 +3330,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.358,
+    "duration_ms": 2,
     "albums": [
       "LOVESONGS"
     ]
@@ -3275,7 +3341,7 @@
     "artists": [
       "Maroon 5"
     ],
-    "duration_ms": 2.894833333333333,
+    "duration_ms": 2,
     "albums": [
       "Songs About Jane: 10th Anniversary Edition"
     ]
@@ -3286,7 +3352,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 2.0441666666666665,
+    "duration_ms": 2,
     "albums": [
       "Фото со звездой"
     ]
@@ -3297,7 +3363,7 @@
     "artists": [
       "Пошлая Молли"
     ],
-    "duration_ms": 2.3613333333333335,
+    "duration_ms": 2,
     "albums": [
       "RATT#WHORE"
     ]
@@ -3308,7 +3374,7 @@
     "artists": [
       "Bad Boys Blue"
     ],
-    "duration_ms": 5.363666666666667,
+    "duration_ms": 5,
     "albums": [
       "Hot Girls, Bad Boys"
     ]
@@ -3319,7 +3385,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 5.4805,
+    "duration_ms": 5,
     "albums": [
       "Комбинация"
     ]
@@ -3330,7 +3396,7 @@
     "artists": [
       "Quest Pistols Show"
     ],
-    "duration_ms": 3.0735,
+    "duration_ms": 3,
     "albums": [
       "Для тебя"
     ]
@@ -3341,7 +3407,7 @@
     "artists": [
       "Scott Helman"
     ],
-    "duration_ms": 3.3586666666666667,
+    "duration_ms": 3,
     "albums": [
       "Hôtel de Ville"
     ]
@@ -3352,7 +3418,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.7015,
+    "duration_ms": 3,
     "albums": [
       "GLUE"
     ]
@@ -3363,7 +3429,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.1005,
+    "duration_ms": 3,
     "albums": [
       "ламповый альбом"
     ]
@@ -3374,7 +3440,7 @@
     "artists": [
       "Dimma Urih"
     ],
-    "duration_ms": 2.0768333333333335,
+    "duration_ms": 2,
     "albums": [
       "мы"
     ]
@@ -3385,7 +3451,7 @@
     "artists": [
       "Blur"
     ],
-    "duration_ms": 2.033333333333333,
+    "duration_ms": 2,
     "albums": [
       "Blur: The Best Of"
     ]
@@ -3396,7 +3462,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 2.807166666666667,
+    "duration_ms": 2,
     "albums": [
       "Light Me Up"
     ]
@@ -3407,7 +3473,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.743333333333333,
+    "duration_ms": 3,
     "albums": [
       "The Best of Nickelback, Vol. 1"
     ]
@@ -3418,7 +3484,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 2.738,
+    "duration_ms": 2,
     "albums": [
       "Minutes to Midnight"
     ]
@@ -3429,7 +3495,7 @@
     "artists": [
       "Альянс"
     ],
-    "duration_ms": 5.755833333333333,
+    "duration_ms": 5,
     "albums": [
       "На заре. Part 1"
     ]
@@ -3440,7 +3506,7 @@
     "artists": [
       "Егор Летов"
     ],
-    "duration_ms": 3.1206666666666667,
+    "duration_ms": 3,
     "albums": [
       "Русское поле эксперимента"
     ]
@@ -3451,7 +3517,7 @@
     "artists": [
       "Кипелов"
     ],
-    "duration_ms": 7.218166666666667,
+    "duration_ms": 7,
     "albums": [
       "Вавилон"
     ]
@@ -3462,7 +3528,7 @@
     "artists": [
       "Би-2"
     ],
-    "duration_ms": 4.876166666666666,
+    "duration_ms": 4,
     "albums": [
       "Би-2"
     ]
@@ -3473,7 +3539,7 @@
     "artists": [
       "DJ SMASH"
     ],
-    "duration_ms": 3.905,
+    "duration_ms": 3,
     "albums": [
       "IDDQD"
     ]
@@ -3484,7 +3550,7 @@
     "artists": [
       "Слава"
     ],
-    "duration_ms": 3.0126666666666666,
+    "duration_ms": 3,
     "albums": [
       "Одиночество"
     ]
@@ -3495,7 +3561,7 @@
     "artists": [
       "Мираж"
     ],
-    "duration_ms": 3.8028333333333335,
+    "duration_ms": 3,
     "albums": [
       "The Best of Greatest Hits"
     ]
@@ -3506,7 +3572,7 @@
     "artists": [
       "Бьянка"
     ],
-    "duration_ms": 3.738,
+    "duration_ms": 3,
     "albums": [
       "Музыка"
     ]
@@ -3517,7 +3583,7 @@
     "artists": [
       "Heaven is Shining"
     ],
-    "duration_ms": 3.4036666666666666,
+    "duration_ms": 3,
     "albums": [
       "Four Women"
     ]
@@ -3528,7 +3594,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.1381666666666668,
+    "duration_ms": 3,
     "albums": [
       "XX лет. Избранное"
     ]
@@ -3540,7 +3606,7 @@
       "Дискотека Авария",
       "Жанна Фриске"
     ],
-    "duration_ms": 3.949333333333333,
+    "duration_ms": 3,
     "albums": [
       "Четверо парней"
     ]
@@ -3551,7 +3617,7 @@
     "artists": [
       "KALEO"
     ],
-    "duration_ms": 3.6593333333333335,
+    "duration_ms": 3,
     "albums": [
       "A/B"
     ]
@@ -3562,7 +3628,7 @@
     "artists": [
       "Ленинград"
     ],
-    "duration_ms": 3.8355,
+    "duration_ms": 3,
     "albums": [
       "Экспонат"
     ]
@@ -3573,7 +3639,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 3.301,
+    "duration_ms": 3,
     "albums": [
       "ПРОСТИ МЕНЯ МОЯ ЛЮБОВЬ"
     ]
@@ -3584,7 +3650,7 @@
     "artists": [
       "Мумий Тролль"
     ],
-    "duration_ms": 3.9066666666666667,
+    "duration_ms": 3,
     "albums": [
       "Похитители книг"
     ]
@@ -3596,7 +3662,7 @@
       "Grits",
       "TobyMac"
     ],
-    "duration_ms": 3.888,
+    "duration_ms": 3,
     "albums": [
       "The Art of Translation"
     ]
@@ -3607,7 +3673,7 @@
     "artists": [
       "Katy Perry"
     ],
-    "duration_ms": 3.6726666666666667,
+    "duration_ms": 3,
     "albums": [
       "Hot N Cold"
     ]
@@ -3618,7 +3684,7 @@
     "artists": [
       "Lady Gaga"
     ],
-    "duration_ms": 3.476,
+    "duration_ms": 3,
     "albums": [
       "Paparazzi"
     ]
@@ -3630,7 +3696,7 @@
       "Imagine Dragons",
       "Kendrick Lamar"
     ],
-    "duration_ms": 4.591666666666667,
+    "duration_ms": 4,
     "albums": [
       "Radioactive"
     ]
@@ -3642,7 +3708,7 @@
       "Eminem",
       "Rihanna"
     ],
-    "duration_ms": 4.1825,
+    "duration_ms": 4,
     "albums": [
       "The Marshall Mathers LP2"
     ]
@@ -3654,7 +3720,7 @@
       "The Family Fortune",
       "Jessica Darling"
     ],
-    "duration_ms": 3.7016666666666667,
+    "duration_ms": 3,
     "albums": [
       "Work"
     ]
@@ -3665,7 +3731,7 @@
     "artists": [
       "PHARAOH"
     ],
-    "duration_ms": 2.5985,
+    "duration_ms": 2,
     "albums": [
       "PHREQUENCY"
     ]
@@ -3676,7 +3742,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.854833333333333,
+    "duration_ms": 3,
     "albums": [
       "Светлая полоса"
     ]
@@ -3687,7 +3753,7 @@
     "artists": [
       "Ottawan"
     ],
-    "duration_ms": 3.203666666666667,
+    "duration_ms": 3,
     "albums": [
       "Alle Hits auf einer CD"
     ]
@@ -3698,7 +3764,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 3.9021666666666666,
+    "duration_ms": 3,
     "albums": [
       "ДЖЕМ Дискотека 87/98"
     ]
@@ -3709,7 +3775,7 @@
     "artists": [
       "Audiogroove"
     ],
-    "duration_ms": 3.2003333333333335,
+    "duration_ms": 3,
     "albums": [
       "100% Top Hits 2009"
     ]
@@ -3721,7 +3787,7 @@
       "It's a Cover Up",
       "Jay-Z"
     ],
-    "duration_ms": 3.9375,
+    "duration_ms": 3,
     "albums": [
       "Festivals"
     ]
@@ -3733,7 +3799,7 @@
       "Скриптонит",
       "FEDUK"
     ],
-    "duration_ms": 3.5476666666666667,
+    "duration_ms": 3,
     "albums": [
       "YEAHH, Pt. 1"
     ]
@@ -3744,7 +3810,7 @@
     "artists": [
       "Equinox Stars"
     ],
-    "duration_ms": 3.0673333333333335,
+    "duration_ms": 3,
     "albums": [
       "Just Dance"
     ]
@@ -3755,7 +3821,7 @@
     "artists": [
       "SLAVA SKRIPKA"
     ],
-    "duration_ms": 2.7476666666666665,
+    "duration_ms": 2,
     "albums": [
       "Бобр"
     ]
@@ -3766,7 +3832,7 @@
     "artists": [
       "Michael Jackson"
     ],
-    "duration_ms": 4.2843333333333335,
+    "duration_ms": 4,
     "albums": [
       "Number Ones"
     ]
@@ -3777,7 +3843,7 @@
     "artists": [
       "Michael Jackson"
     ],
-    "duration_ms": 4.900833333333333,
+    "duration_ms": 4,
     "albums": [
       "The Essential Michael Jackson"
     ]
@@ -3788,7 +3854,7 @@
     "artists": [
       "High School Music Band"
     ],
-    "duration_ms": 3.768666666666667,
+    "duration_ms": 3,
     "albums": [
       "Modern Talking Tribute"
     ]
@@ -3800,7 +3866,7 @@
       "Neptunica",
       "Corona"
     ],
-    "duration_ms": 2.5533333333333332,
+    "duration_ms": 2,
     "albums": [
       "The Rhythm of the Night"
     ]
@@ -3811,7 +3877,7 @@
     "artists": [
       "Generation Disco"
     ],
-    "duration_ms": 3.6415,
+    "duration_ms": 3,
     "albums": [
       "The Disco Essential (37 Tracks)"
     ]
@@ -3822,7 +3888,7 @@
     "artists": [
       "Katy Perry"
     ],
-    "duration_ms": 2.946,
+    "duration_ms": 2,
     "albums": [
       "One Of The Boys"
     ]
@@ -3833,7 +3899,7 @@
     "artists": [
       "Portugal. The Man"
     ],
-    "duration_ms": 2.7015,
+    "duration_ms": 2,
     "albums": [
       "Woodstock"
     ]
@@ -3844,7 +3910,7 @@
     "artists": [
       "Maroon 5"
     ],
-    "duration_ms": 3.836,
+    "duration_ms": 3,
     "albums": [
       "V"
     ]
@@ -3855,7 +3921,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 1.5908333333333333,
+    "duration_ms": 1,
     "albums": [
       "On Air"
     ]
@@ -3867,7 +3933,7 @@
       "Madonna",
       "ABBA"
     ],
-    "duration_ms": 5.6146666666666665,
+    "duration_ms": 5,
     "albums": [
       "Celebration"
     ]
@@ -3878,7 +3944,7 @@
     "artists": [
       "Мираж"
     ],
-    "duration_ms": 3.848,
+    "duration_ms": 3,
     "albums": [
       "Снова вместе"
     ]
@@ -3889,7 +3955,7 @@
     "artists": [
       "DJ SMASH"
     ],
-    "duration_ms": 4.1803333333333335,
+    "duration_ms": 4,
     "albums": [
       "The Best"
     ]
@@ -3900,7 +3966,7 @@
     "artists": [
       "Ёлка"
     ],
-    "duration_ms": 3.4125,
+    "duration_ms": 3,
     "albums": [
       "Точки расставлены"
     ]
@@ -3911,7 +3977,7 @@
     "artists": [
       "Валерий Меладзе"
     ],
-    "duration_ms": 3.735,
+    "duration_ms": 3,
     "albums": [
       "Океан"
     ]
@@ -3922,7 +3988,7 @@
     "artists": [
       "Блестящие"
     ],
-    "duration_ms": 3.419,
+    "duration_ms": 3,
     "albums": [
       "Восточные сказки"
     ]
@@ -3933,7 +3999,7 @@
     "artists": [
       "Лолита"
     ],
-    "duration_ms": 3.874833333333333,
+    "duration_ms": 3,
     "albums": [
       "Раневская"
     ]
@@ -3944,7 +4010,7 @@
     "artists": [
       "Voskresenskii"
     ],
-    "duration_ms": 2.0933333333333333,
+    "duration_ms": 2,
     "albums": [
       "Деньги и секс"
     ]
@@ -3955,7 +4021,7 @@
     "artists": [
       "Voskresenskii"
     ],
-    "duration_ms": 1.9,
+    "duration_ms": 1,
     "albums": [
       "BROKE LIVES MATTER"
     ]
@@ -3967,7 +4033,7 @@
       "Платина",
       "Voskresenskii"
     ],
-    "duration_ms": 3.2893333333333334,
+    "duration_ms": 3,
     "albums": [
       "Платина"
     ]
@@ -3980,7 +4046,7 @@
       "Smike",
       "Пойманные Муравьеды"
     ],
-    "duration_ms": 3.4688333333333334,
+    "duration_ms": 3,
     "albums": [
       "Pull Ya? Let it doll Go"
     ]
@@ -3992,7 +4058,7 @@
       "Lida",
       "Серега Пират"
     ],
-    "duration_ms": 3.335,
+    "duration_ms": 3,
     "albums": [
       "ЧСВ"
     ]
@@ -4004,7 +4070,7 @@
       "Серега Пират",
       "qeqoqeq"
     ],
-    "duration_ms": 2.7276666666666665,
+    "duration_ms": 2,
     "albums": [
       "Зомби апокалипсис"
     ]
@@ -4015,7 +4081,7 @@
     "artists": [
       "Серега Пират"
     ],
-    "duration_ms": 2.7285,
+    "duration_ms": 2,
     "albums": [
       "Почему ты еще не фанат?"
     ]
@@ -4026,7 +4092,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 2.183666666666667,
+    "duration_ms": 2,
     "albums": [
       "Секс"
     ]
@@ -4037,7 +4103,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 3.0296666666666665,
+    "duration_ms": 3,
     "albums": [
       "Привет, это последнее ЕР перед фитом с Моргенштерном"
     ]
@@ -4048,7 +4114,7 @@
     "artists": [
       "Валерий Меладзе"
     ],
-    "duration_ms": 4.0935,
+    "duration_ms": 4,
     "albums": [
       "Океан"
     ]
@@ -4059,7 +4125,7 @@
     "artists": [
       "Винтаж"
     ],
-    "duration_ms": 4.146,
+    "duration_ms": 4,
     "albums": [
       "Sex"
     ]
@@ -4070,7 +4136,7 @@
     "artists": [
       "Артур Пирожков"
     ],
-    "duration_ms": 3.6551666666666667,
+    "duration_ms": 3,
     "albums": [
       "Зацепила"
     ]
@@ -4083,7 +4149,7 @@
       "163ONMYNECK",
       "MAYOT"
     ],
-    "duration_ms": 2.327166666666667,
+    "duration_ms": 2,
     "albums": [
       "Really Rich"
     ]
@@ -4095,7 +4161,7 @@
       "Akon",
       "Eminem"
     ],
-    "duration_ms": 3.554,
+    "duration_ms": 3,
     "albums": [
       "Essential 5"
     ]
@@ -4106,7 +4172,7 @@
     "artists": [
       "Натали"
     ],
-    "duration_ms": 3.7351666666666667,
+    "duration_ms": 3,
     "albums": [
       "Николай"
     ]
@@ -4117,7 +4183,7 @@
     "artists": [
       "Николай Басков"
     ],
-    "duration_ms": 3.3606666666666665,
+    "duration_ms": 3,
     "albums": [
       "Игра"
     ]
@@ -4128,7 +4194,7 @@
     "artists": [
       "Артур Пирожков"
     ],
-    "duration_ms": 3.6198333333333332,
+    "duration_ms": 3,
     "albums": [
       "Чика"
     ]
@@ -4139,7 +4205,7 @@
     "artists": [
       "Натали"
     ],
-    "duration_ms": 3.438,
+    "duration_ms": 3,
     "albums": [
       "О боже, какой мужчина"
     ]
@@ -4150,7 +4216,7 @@
     "artists": [
       "БАНД'ЭРОС"
     ],
-    "duration_ms": 3.6891666666666665,
+    "duration_ms": 3,
     "albums": [
       "Коламбия Пикчерз не представляет"
     ]
@@ -4161,7 +4227,7 @@
     "artists": [
       "Мумий Тролль"
     ],
-    "duration_ms": 2.311,
+    "duration_ms": 2,
     "albums": [
       "Best 20-20"
     ]
@@ -4172,7 +4238,7 @@
     "artists": [
       "алёна швец."
     ],
-    "duration_ms": 3.686166666666667,
+    "duration_ms": 3,
     "albums": [
       "Вино и сигареты"
     ]
@@ -4183,7 +4249,7 @@
     "artists": [
       "Stigmata"
     ],
-    "duration_ms": 4.0793333333333335,
+    "duration_ms": 4,
     "albums": [
       "Stigmata"
     ]
@@ -4195,7 +4261,7 @@
       "Kai Angel",
       "9mice"
     ],
-    "duration_ms": 2.026666666666667,
+    "duration_ms": 2,
     "albums": [
       "HEAVY METAL"
     ]
@@ -4208,7 +4274,7 @@
       "uniqe",
       "ARTEM SHILOVETS"
     ],
-    "duration_ms": 3.5046666666666666,
+    "duration_ms": 3,
     "albums": [
       "МИШЕЛЬ (prod. by Wipo)"
     ]
@@ -4219,7 +4285,7 @@
     "artists": [
       "LOVV66"
     ],
-    "duration_ms": 1.8285,
+    "duration_ms": 1,
     "albums": [
       "МАЙ МАЙ"
     ]
@@ -4230,7 +4296,7 @@
     "artists": [
       "Кишлак"
     ],
-    "duration_ms": 2.4153333333333333,
+    "duration_ms": 2,
     "albums": [
       "Я уёбываю в джаз"
     ]
@@ -4242,7 +4308,7 @@
       "9mice",
       "Kai Angel"
     ],
-    "duration_ms": 2.1943333333333332,
+    "duration_ms": 2,
     "albums": [
       "Heavy Metal 2"
     ]
@@ -4253,7 +4319,7 @@
     "artists": [
       "Пошлая Молли"
     ],
-    "duration_ms": 2.9715,
+    "duration_ms": 2,
     "albums": [
       "RATT#WHORE"
     ]
@@ -4264,7 +4330,7 @@
     "artists": [
       "SATS"
     ],
-    "duration_ms": 1.9083333333333334,
+    "duration_ms": 1,
     "albums": [
       "Суприм трусы"
     ]
@@ -4275,7 +4341,7 @@
     "artists": [
       "ЛСП"
     ],
-    "duration_ms": 3.0966666666666667,
+    "duration_ms": 3,
     "albums": [
       "Несчастные люди"
     ]
@@ -4289,7 +4355,7 @@
       "ARTEM SHILOVETS",
       "Wipo"
     ],
-    "duration_ms": 3.1401666666666666,
+    "duration_ms": 3,
     "albums": [
       "GLAMOUR"
     ]
@@ -4300,7 +4366,7 @@
     "artists": [
       "Kai Angel"
     ],
-    "duration_ms": 2.1333333333333333,
+    "duration_ms": 2,
     "albums": [
       "GOD SYSTEM"
     ]
@@ -4312,7 +4378,7 @@
       "9mice",
       "Kai Angel"
     ],
-    "duration_ms": 2.5073333333333334,
+    "duration_ms": 2,
     "albums": [
       "Heavy Metal 2"
     ]
@@ -4325,7 +4391,7 @@
       "nkeeei",
       "ARTEM SHILOVETS"
     ],
-    "duration_ms": 1.977,
+    "duration_ms": 1,
     "albums": [
       "GLAMOUR"
     ]
@@ -4339,7 +4405,7 @@
       "ARTEM SHILOVETS",
       "SAGARA"
     ],
-    "duration_ms": 2.5,
+    "duration_ms": 2,
     "albums": [
       "Лифон"
     ]
@@ -4350,7 +4416,7 @@
     "artists": [
       "New Tribute Kings"
     ],
-    "duration_ms": 3.2893333333333334,
+    "duration_ms": 3,
     "albums": [
       "Born In The 90's"
     ]
@@ -4361,7 +4427,7 @@
     "artists": [
       "Пошлая Молли"
     ],
-    "duration_ms": 3.4125,
+    "duration_ms": 3,
     "albums": [
       "Контракт"
     ]
@@ -4372,7 +4438,7 @@
     "artists": [
       "Пошлая Молли"
     ],
-    "duration_ms": 2.4,
+    "duration_ms": 2,
     "albums": [
       "Грустная девчонка с глазами как у собаки"
     ]
@@ -4384,7 +4450,7 @@
       "Пошлая Молли",
       "KATERINA"
     ],
-    "duration_ms": 2.644833333333333,
+    "duration_ms": 2,
     "albums": [
       "PAYCHECK"
     ]
@@ -4395,7 +4461,7 @@
     "artists": [
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.708666666666667,
+    "duration_ms": 2,
     "albums": [
       "Последняя Любовь"
     ]
@@ -4407,7 +4473,7 @@
       "MORGENSHTERN",
       "kizary"
     ],
-    "duration_ms": 3.322,
+    "duration_ms": 3,
     "albums": [
       "Double Cup"
     ]
@@ -4418,7 +4484,7 @@
     "artists": [
       "Ladynsax"
     ],
-    "duration_ms": 3.4486666666666665,
+    "duration_ms": 3,
     "albums": [
       "You My Heart, You My Soul"
     ]
@@ -4429,7 +4495,7 @@
     "artists": [
       "ЕГОР КРИД"
     ],
-    "duration_ms": 2.238166666666667,
+    "duration_ms": 2,
     "albums": [
       "PUSSY BOY"
     ]
@@ -4441,7 +4507,7 @@
       "DJ SMASH",
       "MORGENSHTERN"
     ],
-    "duration_ms": 2.6486666666666667,
+    "duration_ms": 2,
     "albums": [
       "Новая волна"
     ]
@@ -4452,7 +4518,7 @@
     "artists": [
       "Михаил Круг"
     ],
-    "duration_ms": 2.929333333333333,
+    "duration_ms": 2,
     "albums": [
       "Жиган-лимон"
     ]
@@ -4463,7 +4529,7 @@
     "artists": [
       "Сергей Трофимов"
     ],
-    "duration_ms": 3.024,
+    "duration_ms": 3,
     "albums": [
       "Лучшие песни"
     ]
@@ -4474,7 +4540,7 @@
     "artists": [
       "Modern Group"
     ],
-    "duration_ms": 3.316666666666667,
+    "duration_ms": 3,
     "albums": [
       "Modern Talking Mania"
     ]
@@ -4485,7 +4551,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.6853333333333333,
+    "duration_ms": 2,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -4496,7 +4562,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.6675,
+    "duration_ms": 2,
     "albums": [
       "Ели мясо мужики"
     ]
@@ -4507,7 +4573,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 4.123333333333333,
+    "duration_ms": 4,
     "albums": [
       "Голая"
     ]
@@ -4518,7 +4584,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 3.4525,
+    "duration_ms": 3,
     "albums": [
       "Чувство ловкости"
     ]
@@ -4529,7 +4595,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 3.6558333333333333,
+    "duration_ms": 3,
     "albums": [
       "Голая"
     ]
@@ -4541,7 +4607,7 @@
       "LonelyStash",
       "Готлиб"
     ],
-    "duration_ms": 2.2235,
+    "duration_ms": 2,
     "albums": [
       "На стол"
     ]
@@ -4552,7 +4618,7 @@
     "artists": [
       "Anacondaz"
     ],
-    "duration_ms": 3.751333333333333,
+    "duration_ms": 3,
     "albums": [
       "Байки инсайдера"
     ]
@@ -4563,7 +4629,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.269,
+    "duration_ms": 3,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -4574,7 +4640,7 @@
     "artists": [
       "Big Baby Tape"
     ],
-    "duration_ms": 2.8941666666666666,
+    "duration_ms": 2,
     "albums": [
       "Like A G6"
     ]
@@ -4586,7 +4652,7 @@
       "PHARAOH",
       "Boulevard Depo"
     ],
-    "duration_ms": 3.6946666666666665,
+    "duration_ms": 3,
     "albums": [
       "Плакшери"
     ]
@@ -4598,7 +4664,7 @@
       "Coolio",
       "L.V."
     ],
-    "duration_ms": 4.0115,
+    "duration_ms": 4,
     "albums": [
       "Gangsta's Paradise"
     ]
@@ -4610,7 +4676,7 @@
       "Дора",
       "Мэйби Бэйби"
     ],
-    "duration_ms": 3.0693333333333332,
+    "duration_ms": 3,
     "albums": [
       "MISS"
     ]
@@ -4621,7 +4687,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.233,
+    "duration_ms": 2,
     "albums": [
       "Дора дура"
     ]
@@ -4632,7 +4698,7 @@
     "artists": [
       "SEREBRO"
     ],
-    "duration_ms": 3.6146666666666665,
+    "duration_ms": 3,
     "albums": [
       "Перепутала"
     ]
@@ -4643,7 +4709,7 @@
     "artists": [
       "Big Baby Tape"
     ],
-    "duration_ms": 2.926833333333333,
+    "duration_ms": 2,
     "albums": [
       "Turbo (Majestic)"
     ]
@@ -4654,7 +4720,7 @@
     "artists": [
       "SEREBRO"
     ],
-    "duration_ms": 4.047,
+    "duration_ms": 4,
     "albums": [
       "Мама Люба"
     ]
@@ -4665,7 +4731,7 @@
     "artists": [
       "SEREBRO"
     ],
-    "duration_ms": 3.7625,
+    "duration_ms": 3,
     "albums": [
       "Мало тебя"
     ]
@@ -4676,7 +4742,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.0401666666666665,
+    "duration_ms": 3,
     "albums": [
       "Магазин игрушек для взрослых"
     ]
@@ -4687,7 +4753,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 2.9315,
+    "duration_ms": 2,
     "albums": [
       "ЛБТД"
     ]
@@ -4698,7 +4764,7 @@
     "artists": [
       "ВИА ГРА"
     ],
-    "duration_ms": 3.6946666666666665,
+    "duration_ms": 3,
     "albums": [
       "Перемирие"
     ]
@@ -4709,7 +4775,7 @@
     "artists": [
       "Джарахов"
     ],
-    "duration_ms": 2.5716666666666668,
+    "duration_ms": 2,
     "albums": [
       "Блокеры"
     ]
@@ -4720,7 +4786,7 @@
     "artists": [
       "Eminem"
     ],
-    "duration_ms": 4.7363333333333335,
+    "duration_ms": 4,
     "albums": [
       "Curtain Call: The Hits"
     ]
@@ -4731,7 +4797,7 @@
     "artists": [
       "Lady Gaga"
     ],
-    "duration_ms": 3.9816666666666665,
+    "duration_ms": 3,
     "albums": [
       "The Fame Monster"
     ]
@@ -4743,7 +4809,7 @@
       "Lady Gaga",
       "Colby O'Donis"
     ],
-    "duration_ms": 4.0675,
+    "duration_ms": 4,
     "albums": [
       "The Fame Monster"
     ]
@@ -4754,7 +4820,7 @@
     "artists": [
       "Lady Gaga"
     ],
-    "duration_ms": 3.6055,
+    "duration_ms": 3,
     "albums": [
       "The Fame Monster"
     ]
@@ -4765,7 +4831,7 @@
     "artists": [
       "Lady Gaga"
     ],
-    "duration_ms": 3.5388333333333333,
+    "duration_ms": 3,
     "albums": [
       "Applause"
     ]
@@ -4776,7 +4842,7 @@
     "artists": [
       "Lady Gaga"
     ],
-    "duration_ms": 3.4695,
+    "duration_ms": 3,
     "albums": [
       "Oldies But Goodies"
     ]
@@ -4787,7 +4853,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 3.825833333333333,
+    "duration_ms": 3,
     "albums": [
       "Я поднимаю руки"
     ]
@@ -4799,20 +4865,20 @@
       "Григорий Лепс",
       "Ирина Аллегрова"
     ],
-    "duration_ms": 4.08,
+    "duration_ms": 4,
     "albums": [
       "The Best"
     ]
   },
   {
-    "track_id": "4752909:529906",
+    "track_id": "4752909:12132488",
     "title": "Рюмка водки на столе",
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 4.4015,
+    "duration_ms": 4,
     "albums": [
-      "На струнах дождя"
+      "The Best"
     ]
   },
   {
@@ -4821,7 +4887,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 4.4985,
+    "duration_ms": 4,
     "albums": [
       "Пенсне"
     ]
@@ -4833,7 +4899,7 @@
       "Icona Pop",
       "Charli XCX"
     ],
-    "duration_ms": 2.5888333333333335,
+    "duration_ms": 2,
     "albums": [
       "I Love It"
     ]
@@ -4844,7 +4910,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 3.2468333333333335,
+    "duration_ms": 3,
     "albums": [
       "The Best"
     ]
@@ -4855,7 +4921,7 @@
     "artists": [
       "George Michael"
     ],
-    "duration_ms": 5.057,
+    "duration_ms": 5,
     "albums": [
       "Tony Fenton's 50 Favourite No. 1s"
     ]
@@ -4866,7 +4932,7 @@
     "artists": [
       "Ленинград"
     ],
-    "duration_ms": 3.6618333333333335,
+    "duration_ms": 3,
     "albums": [
       "Вояж"
     ]
@@ -4877,7 +4943,7 @@
     "artists": [
       "Ленинград"
     ],
-    "duration_ms": 2.6921666666666666,
+    "duration_ms": 2,
     "albums": [
       "Кабриолет"
     ]
@@ -4888,7 +4954,7 @@
     "artists": [
       "Валерий Меладзе"
     ],
-    "duration_ms": 3.9365,
+    "duration_ms": 3,
     "albums": [
       "Небеса"
     ]
@@ -4899,7 +4965,7 @@
     "artists": [
       "zavet"
     ],
-    "duration_ms": 2.5683333333333334,
+    "duration_ms": 2,
     "albums": [
       "goth tv"
     ]
@@ -4910,7 +4976,7 @@
     "artists": [
       "Комбинация"
     ],
-    "duration_ms": 4.514166666666667,
+    "duration_ms": 4,
     "albums": [
       "Комбинация"
     ]
@@ -4921,7 +4987,7 @@
     "artists": [
       "Шайни"
     ],
-    "duration_ms": 2.0921666666666665,
+    "duration_ms": 2,
     "albums": [
       "Lovely"
     ]
@@ -4932,7 +4998,7 @@
     "artists": [
       "Макс Корж"
     ],
-    "duration_ms": 2.894833333333333,
+    "duration_ms": 2,
     "albums": [
       "Животный мир"
     ]
@@ -4943,7 +5009,7 @@
     "artists": [
       "Макс Корж"
     ],
-    "duration_ms": 4.4816666666666665,
+    "duration_ms": 4,
     "albums": [
       "Жить в кайф"
     ]
@@ -4954,7 +5020,7 @@
     "artists": [
       "Макс Корж"
     ],
-    "duration_ms": 5.090833333333333,
+    "duration_ms": 5,
     "albums": [
       "Контрольный"
     ]
@@ -4966,7 +5032,7 @@
       "Noize MC",
       "Александр «Чача» Иванов"
     ],
-    "duration_ms": 3.9915,
+    "duration_ms": 3,
     "albums": [
       "Последний альбом"
     ]
@@ -4978,7 +5044,7 @@
       "speed up & nightcore",
       "slowed & slowcore"
     ],
-    "duration_ms": 3.752666666666667,
+    "duration_ms": 3,
     "albums": [
       "easy-to-reach girl"
     ]
@@ -4989,7 +5055,7 @@
     "artists": [
       "Enina"
     ],
-    "duration_ms": 2.36,
+    "duration_ms": 2,
     "albums": [
       "кончил"
     ]
@@ -5000,7 +5066,7 @@
     "artists": [
       "Шайни"
     ],
-    "duration_ms": 1.8625,
+    "duration_ms": 1,
     "albums": [
       "Yeyo!"
     ]
@@ -5011,7 +5077,7 @@
     "artists": [
       "SHAMAN"
     ],
-    "duration_ms": 3.5,
+    "duration_ms": 3,
     "albums": [
       "Я РУССКИЙ"
     ]
@@ -5022,7 +5088,7 @@
     "artists": [
       "Папин Олимпос"
     ],
-    "duration_ms": 3.7528333333333332,
+    "duration_ms": 3,
     "albums": [
       "Survival with Me Come On"
     ]
@@ -5033,7 +5099,7 @@
     "artists": [
       "SEREBRO"
     ],
-    "duration_ms": 3.19,
+    "duration_ms": 3,
     "albums": [
       "11"
     ]
@@ -5044,7 +5110,7 @@
     "artists": [
       "prodbycpkshawn"
     ],
-    "duration_ms": 1.9561666666666666,
+    "duration_ms": 1,
     "albums": [
       "Violent Crimes x jerseyclub"
     ]
@@ -5055,7 +5121,7 @@
     "artists": [
       "Stereophonics"
     ],
-    "duration_ms": 5.145166666666666,
+    "duration_ms": 5,
     "albums": [
       "Pull The Pin"
     ]
@@ -5066,7 +5132,7 @@
     "artists": [
       "ТРАВМА"
     ],
-    "duration_ms": 2.5608333333333335,
+    "duration_ms": 2,
     "albums": [
       "НОЧНЫЕ ПРИЗНАНИЯ 2010"
     ]
@@ -5077,7 +5143,7 @@
     "artists": [
       "Бьянка"
     ],
-    "duration_ms": 3.015833333333333,
+    "duration_ms": 3,
     "albums": [
       "Мyзыкa"
     ]
@@ -5089,7 +5155,7 @@
       "David Guetta",
       "Akon"
     ],
-    "duration_ms": 3.2641666666666667,
+    "duration_ms": 3,
     "albums": [
       "One More Love"
     ]
@@ -5100,7 +5166,7 @@
     "artists": [
       "Kanye West"
     ],
-    "duration_ms": 5.190333333333333,
+    "duration_ms": 5,
     "albums": [
       "Graduation"
     ]
@@ -5113,7 +5179,7 @@
       "Justin Timberlake",
       "Nelly Furtado"
     ],
-    "duration_ms": 3.9,
+    "duration_ms": 3,
     "albums": [
       "Shock Value"
     ]
@@ -5124,7 +5190,7 @@
     "artists": [
       "Eiffel 65"
     ],
-    "duration_ms": 4.7115,
+    "duration_ms": 4,
     "albums": [
       "Blue (Da Ba Dee)"
     ]
@@ -5135,7 +5201,7 @@
     "artists": [
       "NYUSHA"
     ],
-    "duration_ms": 3.9686666666666666,
+    "duration_ms": 3,
     "albums": [
       "Выбирать чудо"
     ]
@@ -5146,7 +5212,7 @@
     "artists": [
       "5sta Family"
     ],
-    "duration_ms": 3.5326666666666666,
+    "duration_ms": 3,
     "albums": [
       "Зачем"
     ]
@@ -5157,7 +5223,7 @@
     "artists": [
       "Винтаж"
     ],
-    "duration_ms": 3.650166666666667,
+    "duration_ms": 3,
     "albums": [
       "Анечка"
     ]
@@ -5169,7 +5235,7 @@
       "ВИА ГРА",
       "Вахтанг"
     ],
-    "duration_ms": 3.5765,
+    "duration_ms": 3,
     "albums": [
       "У меня появился другой"
     ]
@@ -5180,7 +5246,7 @@
     "artists": [
       "Кар-Мэн"
     ],
-    "duration_ms": 4.918,
+    "duration_ms": 4,
     "albums": [
       "Car-Mania"
     ]
@@ -5191,7 +5257,7 @@
     "artists": [
       "John Newman"
     ],
-    "duration_ms": 4.004666666666667,
+    "duration_ms": 4,
     "albums": [
       "Love Me Again"
     ]
@@ -5202,7 +5268,7 @@
     "artists": [
       "Ray Charles"
     ],
-    "duration_ms": 1.884,
+    "duration_ms": 1,
     "albums": [
       "Ray Charles Collection Supreme"
     ]
@@ -5213,7 +5279,7 @@
     "artists": [
       "The New Pop Order"
     ],
-    "duration_ms": 2.1681666666666666,
+    "duration_ms": 2,
     "albums": [
       "Forever Love Songs, Vol. 2"
     ]
@@ -5224,7 +5290,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 3.812666666666667,
+    "duration_ms": 3,
     "albums": [
       "American Beauty/American Psycho"
     ]
@@ -5236,7 +5302,7 @@
       "Би-2",
       "Oxxxymiron"
     ],
-    "duration_ms": 4.884,
+    "duration_ms": 4,
     "albums": [
       "Горизонт событий @ ВТБ Арена"
     ]
@@ -5247,7 +5313,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.6175,
+    "duration_ms": 2,
     "albums": [
       "MISS"
     ]
@@ -5258,7 +5324,7 @@
     "artists": [
       "Blear"
     ],
-    "duration_ms": 2.4451666666666667,
+    "duration_ms": 2,
     "albums": [
       "Рыболов"
     ]
@@ -5269,7 +5335,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.5818333333333334,
+    "duration_ms": 3,
     "albums": [
       "Мелочь"
     ]
@@ -5280,7 +5346,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 2.0713333333333335,
+    "duration_ms": 2,
     "albums": [
       "ЛАДА ТУРБО СПЕЙС"
     ]
@@ -5291,7 +5357,7 @@
     "artists": [
       "Kiss"
     ],
-    "duration_ms": 4.474,
+    "duration_ms": 4,
     "albums": [
       "Dynasty"
     ]
@@ -5302,7 +5368,7 @@
     "artists": [
       "Мумий Тролль"
     ],
-    "duration_ms": 3.6426666666666665,
+    "duration_ms": 3,
     "albums": [
       "ВОСТОК Х СЕВЕРОЗАПАД"
     ]
@@ -5313,7 +5379,7 @@
     "artists": [
       "Childish Gambino"
     ],
-    "duration_ms": 4.498666666666667,
+    "duration_ms": 4,
     "albums": [
       "Camp"
     ]
@@ -5324,7 +5390,7 @@
     "artists": [
       "Oleander"
     ],
-    "duration_ms": 3.8821666666666665,
+    "duration_ms": 3,
     "albums": [
       "Joyride"
     ]
@@ -5335,7 +5401,7 @@
     "artists": [
       "Eminem"
     ],
-    "duration_ms": 4.8535,
+    "duration_ms": 4,
     "albums": [
       "The Eminem Show"
     ]
@@ -5346,7 +5412,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.2916666666666665,
+    "duration_ms": 3,
     "albums": [
       "Meteora"
     ]
@@ -5357,7 +5423,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.4658333333333333,
+    "duration_ms": 3,
     "albums": [
       "Немею"
     ]
@@ -5368,7 +5434,7 @@
     "artists": [
       "Graham Blvd"
     ],
-    "duration_ms": 3.3618333333333332,
+    "duration_ms": 3,
     "albums": [
       "Dance Hits 1998"
     ]
@@ -5379,7 +5445,7 @@
     "artists": [
       "Bee Gees"
     ],
-    "duration_ms": 6.986166666666667,
+    "duration_ms": 6,
     "albums": [
       "Greatest"
     ]
@@ -5390,7 +5456,7 @@
     "artists": [
       "Madonna"
     ],
-    "duration_ms": 4.697666666666667,
+    "duration_ms": 4,
     "albums": [
       "Confessions on a Dance Floor"
     ]
@@ -5401,7 +5467,7 @@
     "artists": [
       "ПОЗОРИЩЕ"
     ],
-    "duration_ms": 3.5845,
+    "duration_ms": 3,
     "albums": [
       "где сейчас поросёнок Джордж?"
     ]
@@ -5412,7 +5478,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.066,
+    "duration_ms": 3,
     "albums": [
       "Неразбериха"
     ]
@@ -5424,7 +5490,7 @@
       "Noize MC",
       "Вахтанг"
     ],
-    "duration_ms": 3.9913333333333334,
+    "duration_ms": 3,
     "albums": [
       "Неразбериха"
     ]
@@ -5435,7 +5501,7 @@
     "artists": [
       "Modern Group"
     ],
-    "duration_ms": 3.7503333333333333,
+    "duration_ms": 3,
     "albums": [
       "Modern Talking Mania"
     ]
@@ -5447,7 +5513,7 @@
       "Gala",
       "XTM"
     ],
-    "duration_ms": 3.565,
+    "duration_ms": 3,
     "albums": [
       "Freed from Desire"
     ]
@@ -5459,7 +5525,7 @@
       "INSTASAMKA",
       "Лолита"
     ],
-    "duration_ms": 2.5521666666666665,
+    "duration_ms": 2,
     "albums": [
       "На Титанике"
     ]
@@ -5470,7 +5536,7 @@
     "artists": [
       "Leopardstan"
     ],
-    "duration_ms": 2.4498333333333333,
+    "duration_ms": 2,
     "albums": [
       "Barbarella"
     ]
@@ -5482,7 +5548,7 @@
       "Apolly",
       "swanmortuus"
     ],
-    "duration_ms": 3.362,
+    "duration_ms": 3,
     "albums": [
       "Раньше"
     ]
@@ -5493,7 +5559,7 @@
     "artists": [
       "Mando Diao"
     ],
-    "duration_ms": 3.7055,
+    "duration_ms": 3,
     "albums": [
       "BANG"
     ]
@@ -5504,7 +5570,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 3.916166666666667,
+    "duration_ms": 3,
     "albums": [
       "The High End of Low"
     ]
@@ -5515,7 +5581,7 @@
     "artists": [
       "Betcha"
     ],
-    "duration_ms": 3.4596666666666667,
+    "duration_ms": 3,
     "albums": [
       "Feels Like We’ve Been Here Before"
     ]
@@ -5526,7 +5592,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.4908333333333332,
+    "duration_ms": 3,
     "albums": [
       "Выход в город"
     ]
@@ -5537,7 +5603,7 @@
     "artists": [
       "Pixies"
     ],
-    "duration_ms": 3.820666666666667,
+    "duration_ms": 3,
     "albums": [
       "Death to the Pixies"
     ]
@@ -5548,7 +5614,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 4.082666666666666,
+    "duration_ms": 4,
     "albums": [
       "Save Rock And Roll"
     ]
@@ -5560,7 +5626,7 @@
       "Tom Jones",
       "Mousse T."
     ],
-    "duration_ms": 3.89,
+    "duration_ms": 3,
     "albums": [
       "Reload"
     ]
@@ -5571,7 +5637,7 @@
     "artists": [
       "Radiohead"
     ],
-    "duration_ms": 4.401,
+    "duration_ms": 4,
     "albums": [
       "OK Computer"
     ]
@@ -5582,7 +5648,7 @@
     "artists": [
       "The Hatters"
     ],
-    "duration_ms": 2.1253333333333333,
+    "duration_ms": 2,
     "albums": [
       "Полная шляпа"
     ]
@@ -5593,7 +5659,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.481333333333333,
+    "duration_ms": 3,
     "albums": [
       "Шанс"
     ]
@@ -5604,7 +5670,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 2.9583333333333335,
+    "duration_ms": 2,
     "albums": [
       "Night Visions"
     ]
@@ -5615,7 +5681,7 @@
     "artists": [
       "Нервы"
     ],
-    "duration_ms": 2.6165,
+    "duration_ms": 2,
     "albums": [
       "Неизданное 2010-2012"
     ]
@@ -5627,7 +5693,7 @@
       "My Chemical Romance",
       "Liza Minnelli"
     ],
-    "duration_ms": 4.650333333333333,
+    "duration_ms": 4,
     "albums": [
       "The Black Parade"
     ]
@@ -5638,7 +5704,7 @@
     "artists": [
       "Giorgi Bagushvili"
     ],
-    "duration_ms": 4.316666666666666,
+    "duration_ms": 4,
     "albums": [
       "Без бою"
     ]
@@ -5649,7 +5715,7 @@
     "artists": [
       "Приключения Электроников"
     ],
-    "duration_ms": 3.7006666666666668,
+    "duration_ms": 3,
     "albums": [
       "Песни о главном. День космонавтики"
     ]
@@ -5661,7 +5727,7 @@
       "EMIN",
       "Григорий Лепс"
     ],
-    "duration_ms": 3.787,
+    "duration_ms": 3,
     "albums": [
       "8 в падении"
     ]
@@ -5672,7 +5738,7 @@
     "artists": [
       "Madonna"
     ],
-    "duration_ms": 5.681,
+    "duration_ms": 5,
     "albums": [
       "Like a Prayer"
     ]
@@ -5683,7 +5749,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.9701666666666666,
+    "duration_ms": 2,
     "albums": [
       "Выход в город"
     ]
@@ -5694,7 +5760,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.091666666666667,
+    "duration_ms": 3,
     "albums": [
       "пир во время чумы"
     ]
@@ -5705,7 +5771,7 @@
     "artists": [
       "The Hit Co."
     ],
-    "duration_ms": 3.6323333333333334,
+    "duration_ms": 3,
     "albums": [
       "Monsters of Halloween: Wicked Witch Wild Party Music"
     ]
@@ -5716,7 +5782,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.612,
+    "duration_ms": 3,
     "albums": [
       "Новый альбом"
     ]
@@ -5727,7 +5793,7 @@
     "artists": [
       "Madonna"
     ],
-    "duration_ms": 3.3893333333333335,
+    "duration_ms": 3,
     "albums": [
       "Hung Up"
     ]
@@ -5738,7 +5804,7 @@
     "artists": [
       "Electric Enemy"
     ],
-    "duration_ms": 3.1763333333333335,
+    "duration_ms": 3,
     "albums": [
       "Where Do We Go From Here?"
     ]
@@ -5749,7 +5815,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 4.074333333333334,
+    "duration_ms": 4,
     "albums": [
       "ТыЧегоТакойСерьёзный"
     ]
@@ -5760,7 +5826,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.554333333333333,
+    "duration_ms": 3,
     "albums": [
       "Make Some Noize"
     ]
@@ -5771,7 +5837,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 3.562666666666667,
+    "duration_ms": 3,
     "albums": [
       "Апгрэйд#Upgrade"
     ]
@@ -5783,7 +5849,7 @@
       "Call Me Karizma",
       "Три дня дождя"
     ],
-    "duration_ms": 2.8,
+    "duration_ms": 2,
     "albums": [
       "Kryptonite"
     ]
@@ -5795,7 +5861,7 @@
       "Anacondaz",
       "Заточка"
     ],
-    "duration_ms": 4.392833333333333,
+    "duration_ms": 4,
     "albums": [
       "Перезвони мне +79995771202"
     ]
@@ -5806,7 +5872,7 @@
     "artists": [
       "Seether"
     ],
-    "duration_ms": 3.2853333333333334,
+    "duration_ms": 3,
     "albums": [
       "Vicennial: 2 Decades of Seether"
     ]
@@ -5817,7 +5883,7 @@
     "artists": [
       "Bullet For My Valentine"
     ],
-    "duration_ms": 7.1615,
+    "duration_ms": 7,
     "albums": [
       "Live From Brixton: Chapter Two, Night One"
     ]
@@ -5828,7 +5894,7 @@
     "artists": [
       "Психея"
     ],
-    "duration_ms": 5.650166666666666,
+    "duration_ms": 5,
     "albums": [
       "Видения"
     ]
@@ -5839,7 +5905,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 4.445,
+    "duration_ms": 4,
     "albums": [
       "Third Day Of A Seven Day Binge"
     ]
@@ -5850,7 +5916,7 @@
     "artists": [
       "Kill Hannah"
     ],
-    "duration_ms": 3.7671666666666668,
+    "duration_ms": 3,
     "albums": [
       "For Never And Ever"
     ]
@@ -5861,7 +5927,7 @@
     "artists": [
       "Siiickbrain"
     ],
-    "duration_ms": 2.501333333333333,
+    "duration_ms": 2,
     "albums": [
       "Fear the Sun"
     ]
@@ -5872,7 +5938,7 @@
     "artists": [
       "Radiohead"
     ],
-    "duration_ms": 4.357,
+    "duration_ms": 4,
     "albums": [
       "OK Computer OKNOTOK 1997 2017"
     ]
@@ -5883,7 +5949,7 @@
     "artists": [
       "BRKN LOVE"
     ],
-    "duration_ms": 3.4621666666666666,
+    "duration_ms": 3,
     "albums": [
       "BRKN LOVE"
     ]
@@ -5894,7 +5960,7 @@
     "artists": [
       "Монеточка"
     ],
-    "duration_ms": 3.469,
+    "duration_ms": 3,
     "albums": [
       "Раскраски для взрослых"
     ]
@@ -5905,7 +5971,7 @@
     "artists": [
       "Guns N' Roses"
     ],
-    "duration_ms": 4.531,
+    "duration_ms": 4,
     "albums": [
       "Appetite For Destruction"
     ]
@@ -5916,7 +5982,7 @@
     "artists": [
       "Billy Idol"
     ],
-    "duration_ms": 4.797666666666666,
+    "duration_ms": 4,
     "albums": [
       "Rebel Yell"
     ]
@@ -5927,7 +5993,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 2.4513333333333334,
+    "duration_ms": 2,
     "albums": [
       "См. рис. 2"
     ]
@@ -5938,7 +6004,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 2.8281666666666667,
+    "duration_ms": 2,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -5949,7 +6015,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 3.2468333333333335,
+    "duration_ms": 3,
     "albums": [
       "Виктор Дробыш – 50. Юбилейный концерт"
     ]
@@ -5960,7 +6026,7 @@
     "artists": [
       "Натали"
     ],
-    "duration_ms": 3.8411666666666666,
+    "duration_ms": 3,
     "albums": [
       "Первая любовь"
     ]
@@ -5971,7 +6037,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.023833333333333,
+    "duration_ms": 4,
     "albums": [
       "Блізка"
     ]
@@ -5982,7 +6048,7 @@
     "artists": [
       "Three Days Grace"
     ],
-    "duration_ms": 3.4596666666666667,
+    "duration_ms": 3,
     "albums": [
       "One-X"
     ]
@@ -5993,7 +6059,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 2.8746666666666667,
+    "duration_ms": 2,
     "albums": [
       "СПАСИБО"
     ]
@@ -6004,7 +6070,7 @@
     "artists": [
       "Chris Cornell"
     ],
-    "duration_ms": 4.081333333333333,
+    "duration_ms": 4,
     "albums": [
       "Chris Cornell"
     ]
@@ -6015,7 +6081,7 @@
     "artists": [
       "ABBA"
     ],
-    "duration_ms": 3.113,
+    "duration_ms": 3,
     "albums": [
       "Arrival"
     ]
@@ -6027,7 +6093,7 @@
       "The Weeknd",
       "Gesaffelstein"
     ],
-    "duration_ms": 4.0175,
+    "duration_ms": 4,
     "albums": [
       "My Dear Melancholy,"
     ]
@@ -6041,7 +6107,7 @@
       "SKIDRI",
       "DVRKLXGHT"
     ],
-    "duration_ms": 2.2545,
+    "duration_ms": 2,
     "albums": [
       "Плохая девочка"
     ]
@@ -6052,7 +6118,7 @@
     "artists": [
       "Franz Ferdinand"
     ],
-    "duration_ms": 4.2445,
+    "duration_ms": 4,
     "albums": [
       "Franz Ferdinand"
     ]
@@ -6063,7 +6129,7 @@
     "artists": [
       "Дора"
     ],
-    "duration_ms": 2.865,
+    "duration_ms": 2,
     "albums": [
       "Осень пьяная"
     ]
@@ -6074,7 +6140,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.5305,
+    "duration_ms": 3,
     "albums": [
       "См. рис. 2"
     ]
@@ -6085,7 +6151,7 @@
     "artists": [
       "Taron Egerton"
     ],
-    "duration_ms": 3.1308333333333334,
+    "duration_ms": 3,
     "albums": [
       "«Зверопой»"
     ]
@@ -6096,7 +6162,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.091666666666667,
+    "duration_ms": 3,
     "albums": [
       "не учи"
     ]
@@ -6107,7 +6173,7 @@
     "artists": [
       "Wilder."
     ],
-    "duration_ms": 3.577,
+    "duration_ms": 3,
     "albums": [
       "BAD BAD LUCK"
     ]
@@ -6119,7 +6185,7 @@
       "DK",
       "TheBrianMaps"
     ],
-    "duration_ms": 2.070666666666667,
+    "duration_ms": 2,
     "albums": [
       "Не сей любовь"
     ]
@@ -6130,7 +6196,7 @@
     "artists": [
       "The Crystal Casino Band"
     ],
-    "duration_ms": 3.8041666666666667,
+    "duration_ms": 3,
     "albums": [
       "Until the Sun Comes up"
     ]
@@ -6141,7 +6207,7 @@
     "artists": [
       "BRKN LOVE"
     ],
-    "duration_ms": 3.64,
+    "duration_ms": 3,
     "albums": [
       "Dead Weight"
     ]
@@ -6152,7 +6218,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.8666666666666667,
+    "duration_ms": 3,
     "albums": [
       "Интроверт"
     ]
@@ -6163,7 +6229,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 3.743333333333333,
+    "duration_ms": 3,
     "albums": [
       "Going To Hell"
     ]
@@ -6174,7 +6240,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.7136666666666667,
+    "duration_ms": 3,
     "albums": [
       "ламповый альбом"
     ]
@@ -6185,7 +6251,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 2.8848333333333334,
+    "duration_ms": 2,
     "albums": [
       "ламповый альбом"
     ]
@@ -6196,7 +6262,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.9483333333333333,
+    "duration_ms": 2,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -6207,7 +6273,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 6.017,
+    "duration_ms": 6,
     "albums": [
       "After Hours"
     ]
@@ -6218,7 +6284,7 @@
     "artists": [
       "Paper Idol"
     ],
-    "duration_ms": 3.874833333333333,
+    "duration_ms": 3,
     "albums": [
       "Money for Flowers"
     ]
@@ -6230,7 +6296,7 @@
       "The Weeknd",
       "Kendrick Lamar"
     ],
-    "duration_ms": 3.5236666666666667,
+    "duration_ms": 3,
     "albums": [
       "The Highlights"
     ]
@@ -6241,7 +6307,7 @@
     "artists": [
       "забей, лерочка"
     ],
-    "duration_ms": 2.85,
+    "duration_ms": 2,
     "albums": [
       "мёртвая невеста"
     ]
@@ -6253,7 +6319,7 @@
       "Mary Gu",
       "забей, лерочка"
     ],
-    "duration_ms": 2.6341666666666668,
+    "duration_ms": 2,
     "albums": [
       "Синдром отмены"
     ]
@@ -6264,7 +6330,7 @@
     "artists": [
       "Агата Кристи"
     ],
-    "duration_ms": 4.0841666666666665,
+    "duration_ms": 4,
     "albums": [
       "Избранное"
     ]
@@ -6275,7 +6341,7 @@
     "artists": [
       "Антон Токарев"
     ],
-    "duration_ms": 3.3266666666666667,
+    "duration_ms": 3,
     "albums": [
       "Седьмой лепесток"
     ]
@@ -6286,7 +6352,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.187,
+    "duration_ms": 3,
     "albums": [
       "Жаль, нет ружья"
     ]
@@ -6297,7 +6363,7 @@
     "artists": [
       "ГРАНЖ"
     ],
-    "duration_ms": 3.6495,
+    "duration_ms": 3,
     "albums": [
       "Вечно молодой"
     ]
@@ -6308,7 +6374,7 @@
     "artists": [
       "Foo Fighters"
     ],
-    "duration_ms": 4.4895,
+    "duration_ms": 4,
     "albums": [
       "Echoes, Silence, Patience & Grace"
     ]
@@ -6319,7 +6385,7 @@
     "artists": [
       "Seether"
     ],
-    "duration_ms": 4.094166666666666,
+    "duration_ms": 4,
     "albums": [
       "Seether: 2002 - 2013"
     ]
@@ -6330,7 +6396,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 3.558666666666667,
+    "duration_ms": 3,
     "albums": [
       "Beauty Behind The Madness"
     ]
@@ -6341,7 +6407,7 @@
     "artists": [
       "twenty one pilots"
     ],
-    "duration_ms": 3.575,
+    "duration_ms": 3,
     "albums": [
       "Blurryface"
     ]
@@ -6352,7 +6418,7 @@
     "artists": [
       "Ария"
     ],
-    "duration_ms": 5.423333333333333,
+    "duration_ms": 5,
     "albums": [
       "Беспечный ангел"
     ]
@@ -6363,7 +6429,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.0793333333333335,
+    "duration_ms": 3,
     "albums": [
       "Диссонанс"
     ]
@@ -6374,7 +6440,7 @@
     "artists": [
       "астра"
     ],
-    "duration_ms": 3.631,
+    "duration_ms": 3,
     "albums": [
       "алкгл"
     ]
@@ -6385,7 +6451,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.7655,
+    "duration_ms": 3,
     "albums": [
       "Imagine Dragons EP"
     ]
@@ -6396,7 +6462,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 4.583333333333333,
+    "duration_ms": 4,
     "albums": [
       "Шаг вдох"
     ]
@@ -6407,7 +6473,7 @@
     "artists": [
       "Сектор Газа"
     ],
-    "duration_ms": 4.071,
+    "duration_ms": 4,
     "albums": [
       "Восставший из Ада"
     ]
@@ -6418,7 +6484,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.5296666666666665,
+    "duration_ms": 3,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -6429,7 +6495,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 2.7543333333333333,
+    "duration_ms": 2,
     "albums": [
       "Bones"
     ]
@@ -6440,7 +6506,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 3.5861666666666667,
+    "duration_ms": 3,
     "albums": [
       "Lest We Forget: The Best Of"
     ]
@@ -6451,7 +6517,7 @@
     "artists": [
       "Wolfmother"
     ],
-    "duration_ms": 4.661,
+    "duration_ms": 4,
     "albums": [
       "Wolfmother"
     ]
@@ -6462,7 +6528,7 @@
     "artists": [
       "Seether"
     ],
-    "duration_ms": 3.3413333333333335,
+    "duration_ms": 3,
     "albums": [
       "Vicennial: 2 Decades of Seether"
     ]
@@ -6473,7 +6539,7 @@
     "artists": [
       "Muse"
     ],
-    "duration_ms": 3.07,
+    "duration_ms": 3,
     "albums": [
       "The 2nd Law"
     ]
@@ -6484,7 +6550,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.2826666666666666,
+    "duration_ms": 3,
     "albums": [
       "Крепость"
     ]
@@ -6495,7 +6561,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.9258333333333333,
+    "duration_ms": 3,
     "albums": [
       "Лiрика"
     ]
@@ -6506,7 +6572,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.9503333333333335,
+    "duration_ms": 3,
     "albums": [
       "Выход в город"
     ]
@@ -6517,7 +6583,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 4.554833333333334,
+    "duration_ms": 4,
     "albums": [
       "Smoke + Mirrors"
     ]
@@ -6528,7 +6594,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.7836666666666665,
+    "duration_ms": 3,
     "albums": [
       "Dark Horse"
     ]
@@ -6539,7 +6605,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 4.098166666666667,
+    "duration_ms": 4,
     "albums": [
       "Stadium Arcadium"
     ]
@@ -6550,7 +6616,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 4.568666666666667,
+    "duration_ms": 4,
     "albums": [
       "Going To Hell"
     ]
@@ -6562,7 +6628,7 @@
       "Blackway",
       "Black Caviar"
     ],
-    "duration_ms": 3.705,
+    "duration_ms": 3,
     "albums": [
       "«Человек-паук: Через вселенные»"
     ]
@@ -6576,7 +6642,7 @@
       "Arcane",
       "League of Legends"
     ],
-    "duration_ms": 2.889666666666667,
+    "duration_ms": 2,
     "albums": [
       "Mercury - Act 1"
     ]
@@ -6587,7 +6653,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.558,
+    "duration_ms": 3,
     "albums": [
       "Mercury - Act 1"
     ]
@@ -6598,7 +6664,7 @@
     "artists": [
       "Сектор Газа"
     ],
-    "duration_ms": 2.8055,
+    "duration_ms": 2,
     "albums": [
       "Восставший из Ада"
     ]
@@ -6609,7 +6675,7 @@
     "artists": [
       "Порнофильмы"
     ],
-    "duration_ms": 4.482166666666667,
+    "duration_ms": 4,
     "albums": [
       "Русская мечта, Часть 2"
     ]
@@ -6620,7 +6686,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 3.7981666666666665,
+    "duration_ms": 3,
     "albums": [
       "Kill Me"
     ]
@@ -6631,7 +6697,7 @@
     "artists": [
       "Daft Punk"
     ],
-    "duration_ms": 3.738166666666667,
+    "duration_ms": 3,
     "albums": [
       "Discovery"
     ]
@@ -6642,7 +6708,7 @@
     "artists": [
       "Ivashov"
     ],
-    "duration_ms": 2.920166666666667,
+    "duration_ms": 2,
     "albums": [
       "Спасибо, папа"
     ]
@@ -6653,7 +6719,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.4066666666666667,
+    "duration_ms": 3,
     "albums": [
       "Синоптик"
     ]
@@ -6664,7 +6730,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.847166666666667,
+    "duration_ms": 3,
     "albums": [
       "Человеко-часы. Deluxe Version"
     ]
@@ -6675,7 +6741,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 2.8888333333333334,
+    "duration_ms": 2,
     "albums": [
       "возраст согласия"
     ]
@@ -6686,7 +6752,7 @@
     "artists": [
       "Anacondaz"
     ],
-    "duration_ms": 3.8355,
+    "duration_ms": 3,
     "albums": [
       "Перезвони мне +79995771202"
     ]
@@ -6697,7 +6763,7 @@
     "artists": [
       "Тараканы!"
     ],
-    "duration_ms": 4.485833333333333,
+    "duration_ms": 4,
     "albums": [
       "Лучшие из лучших"
     ]
@@ -6708,7 +6774,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.8355,
+    "duration_ms": 3,
     "albums": [
       "Новый альбом"
     ]
@@ -6719,7 +6785,7 @@
     "artists": [
       "КОПЕНGАGЕН"
     ],
-    "duration_ms": 4.501666666666667,
+    "duration_ms": 4,
     "albums": [
       "Утопия"
     ]
@@ -6730,7 +6796,7 @@
     "artists": [
       "Destroy Rebuild Until God Shows"
     ],
-    "duration_ms": 2.9968333333333335,
+    "duration_ms": 2,
     "albums": [
       "D.R.U.G.S."
     ]
@@ -6741,7 +6807,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 4.062833333333334,
+    "duration_ms": 4,
     "albums": [
       "Жаль, нет ружья"
     ]
@@ -6754,7 +6820,7 @@
       "Игорь Скляр",
       "Atomic Heart"
     ],
-    "duration_ms": 2.4346666666666668,
+    "duration_ms": 2,
     "albums": [
       "Atomic Heart,  Vol.1"
     ]
@@ -6765,7 +6831,7 @@
     "artists": [
       "Папин Олимпос"
     ],
-    "duration_ms": 2.9675,
+    "duration_ms": 2,
     "albums": [
       "Популярность, алкоголизм, смерть"
     ]
@@ -6776,7 +6842,7 @@
     "artists": [
       "Anacondaz"
     ],
-    "duration_ms": 3.150166666666667,
+    "duration_ms": 3,
     "albums": [
       "Без Паники"
     ]
@@ -6787,7 +6853,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 3.5936666666666666,
+    "duration_ms": 3,
     "albums": [
       "After Hours"
     ]
@@ -6798,7 +6864,7 @@
     "artists": [
       "Boogie Sunshine"
     ],
-    "duration_ms": 3.663666666666667,
+    "duration_ms": 3,
     "albums": [
       "September"
     ]
@@ -6809,7 +6875,7 @@
     "artists": [
       "NYUSHA"
     ],
-    "duration_ms": 4.44,
+    "duration_ms": 4,
     "albums": [
       "Выбирать чудо"
     ]
@@ -6820,7 +6886,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 4.153333333333333,
+    "duration_ms": 4,
     "albums": [
       "Starboy"
     ]
@@ -6831,7 +6897,7 @@
     "artists": [
       "Григорий Лепс"
     ],
-    "duration_ms": 4.452333333333334,
+    "duration_ms": 4,
     "albums": [
       "Зае...вшие рожи"
     ]
@@ -6842,7 +6908,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 5.045,
+    "duration_ms": 5,
     "albums": [
       "Тень клоуна"
     ]
@@ -6853,7 +6919,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 3.577,
+    "duration_ms": 3,
     "albums": [
       "The Game"
     ]
@@ -6864,7 +6930,7 @@
     "artists": [
       "Seether"
     ],
-    "duration_ms": 4.536,
+    "duration_ms": 4,
     "albums": [
       "Isolate And Medicate"
     ]
@@ -6875,7 +6941,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.11,
+    "duration_ms": 3,
     "albums": [
       "All the Right Reasons"
     ]
@@ -6886,7 +6952,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 3.6155,
+    "duration_ms": 3,
     "albums": [
       "By The Way"
     ]
@@ -6897,7 +6963,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 9.1375,
+    "duration_ms": 9,
     "albums": [
       "American Idiot"
     ]
@@ -6908,7 +6974,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 3.824333333333333,
+    "duration_ms": 3,
     "albums": [
       "Chuck"
     ]
@@ -6919,7 +6985,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 4.1575,
+    "duration_ms": 4,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -6930,7 +6996,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 5.048333333333333,
+    "duration_ms": 5,
     "albums": [
       "The Pale Emperor"
     ]
@@ -6941,7 +7007,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.166666666666667,
+    "duration_ms": 4,
     "albums": [
       "Люстэрка"
     ]
@@ -6952,7 +7018,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 4.978166666666667,
+    "duration_ms": 4,
     "albums": [
       "The Paramour Sessions"
     ]
@@ -6963,7 +7029,7 @@
     "artists": [
       "Seether"
     ],
-    "duration_ms": 4.023333333333333,
+    "duration_ms": 4,
     "albums": [
       "Isolate And Medicate"
     ]
@@ -6974,7 +7040,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 4.098833333333333,
+    "duration_ms": 4,
     "albums": [
       "The State"
     ]
@@ -6985,7 +7051,7 @@
     "artists": [
       "Five Finger Death Punch"
     ],
-    "duration_ms": 4.4928333333333335,
+    "duration_ms": 4,
     "albums": [
       "F8"
     ]
@@ -6996,7 +7062,7 @@
     "artists": [
       "Океан Ельзи"
     ],
-    "duration_ms": 4.307166666666666,
+    "duration_ms": 4,
     "albums": [
       "Gloria"
     ]
@@ -7007,7 +7073,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 2.6986666666666665,
+    "duration_ms": 2,
     "albums": [
       "The Black Parade"
     ]
@@ -7018,7 +7084,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 3.7176666666666667,
+    "duration_ms": 3,
     "albums": [
       "«Богемская рапсодия»"
     ]
@@ -7029,7 +7095,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.4203333333333332,
+    "duration_ms": 3,
     "albums": [
       "Minutes to Midnight"
     ]
@@ -7040,7 +7106,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 4.066666666666666,
+    "duration_ms": 4,
     "albums": [
       "Mercury - Act 1"
     ]
@@ -7051,7 +7117,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 2.7493333333333334,
+    "duration_ms": 2,
     "albums": [
       "Chuck"
     ]
@@ -7062,7 +7128,7 @@
     "artists": [
       "Ария"
     ],
-    "duration_ms": 5.591833333333334,
+    "duration_ms": 5,
     "albums": [
       "Химера"
     ]
@@ -7073,7 +7139,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 5.608,
+    "duration_ms": 5,
     "albums": [
       "The Pale Emperor"
     ]
@@ -7084,7 +7150,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.0141666666666667,
+    "duration_ms": 3,
     "albums": [
       "Revolution Radio"
     ]
@@ -7095,7 +7161,7 @@
     "artists": [
       "Hollywood Undead"
     ],
-    "duration_ms": 3.3291666666666666,
+    "duration_ms": 3,
     "albums": [
       "Day Of The Dead"
     ]
@@ -7106,7 +7172,7 @@
     "artists": [
       "The Police"
     ],
-    "duration_ms": 4.196,
+    "duration_ms": 4,
     "albums": [
       "Greatest Hits"
     ]
@@ -7117,7 +7183,7 @@
     "artists": [
       "Полина Гагарина"
     ],
-    "duration_ms": 4.008166666666667,
+    "duration_ms": 4,
     "albums": [
       "Спектакль окончен"
     ]
@@ -7128,7 +7194,7 @@
     "artists": [
       "Bullet For My Valentine"
     ],
-    "duration_ms": 3.7275,
+    "duration_ms": 3,
     "albums": [
       "Gravity"
     ]
@@ -7139,7 +7205,7 @@
     "artists": [
       "Metallica"
     ],
-    "duration_ms": 5.521,
+    "duration_ms": 5,
     "albums": [
       "Metallica"
     ]
@@ -7150,7 +7216,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 2.9736666666666665,
+    "duration_ms": 2,
     "albums": [
       "пир во время чумы"
     ]
@@ -7161,7 +7227,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 2.9255,
+    "duration_ms": 2,
     "albums": [
       "Счастье"
     ]
@@ -7172,7 +7238,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 4.110666666666667,
+    "duration_ms": 4,
     "albums": [
       "Lest We Forget: The Best Of"
     ]
@@ -7183,7 +7249,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 3.598333333333333,
+    "duration_ms": 3,
     "albums": [
       "Californication"
     ]
@@ -7194,7 +7260,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 5.367333333333334,
+    "duration_ms": 5,
     "albums": [
       "21st Century Breakdown"
     ]
@@ -7205,7 +7271,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.1393333333333335,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -7216,7 +7282,7 @@
     "artists": [
       "Rise Against"
     ],
-    "duration_ms": 3.976166666666667,
+    "duration_ms": 3,
     "albums": [
       "Endgame"
     ]
@@ -7227,7 +7293,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.354,
+    "duration_ms": 3,
     "albums": [
       "Evolve"
     ]
@@ -7238,7 +7304,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.6431666666666667,
+    "duration_ms": 3,
     "albums": [
       "Лiрика"
     ]
@@ -7249,7 +7315,7 @@
     "artists": [
       "Europe"
     ],
-    "duration_ms": 5.184166666666667,
+    "duration_ms": 5,
     "albums": [
       "Definitive Collection"
     ]
@@ -7260,7 +7326,7 @@
     "artists": [
       "Hinder"
     ],
-    "duration_ms": 3.2908333333333335,
+    "duration_ms": 3,
     "albums": [
       "All American Nightmare"
     ]
@@ -7271,7 +7337,7 @@
     "artists": [
       "Span"
     ],
-    "duration_ms": 3.0573333333333332,
+    "duration_ms": 3,
     "albums": [
       "Mass Distraction"
     ]
@@ -7282,7 +7348,7 @@
     "artists": [
       "AC/DC Recovered"
     ],
-    "duration_ms": 3.3541666666666665,
+    "duration_ms": 3,
     "albums": [
       "The Big Tribute Hits"
     ]
@@ -7293,7 +7359,7 @@
     "artists": [
       "Survivor"
     ],
-    "duration_ms": 3.7906666666666666,
+    "duration_ms": 3,
     "albums": [
       "Essential - Girls Night In"
     ]
@@ -7304,7 +7370,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.1253333333333333,
+    "duration_ms": 3,
     "albums": [
       "Meteora"
     ]
@@ -7315,7 +7381,7 @@
     "artists": [
       "Bon Jovi"
     ],
-    "duration_ms": 3.7223333333333333,
+    "duration_ms": 3,
     "albums": [
       "Crush"
     ]
@@ -7326,7 +7392,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 2.924166666666667,
+    "duration_ms": 2,
     "albums": [
       "Number One"
     ]
@@ -7337,7 +7403,7 @@
     "artists": [
       "Mötley Crüe"
     ],
-    "duration_ms": 4.710833333333333,
+    "duration_ms": 4,
     "albums": [
       "Dr. Feelgood"
     ]
@@ -7348,7 +7414,7 @@
     "artists": [
       "Taylor Swift"
     ],
-    "duration_ms": 3.6533333333333333,
+    "duration_ms": 3,
     "albums": [
       "1989"
     ]
@@ -7359,7 +7425,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.2356666666666665,
+    "duration_ms": 3,
     "albums": [
       "Король и Шут (Официальный саундтрек), Часть 2"
     ]
@@ -7370,7 +7436,7 @@
     "artists": [
       "Capital Cities"
     ],
-    "duration_ms": 3.387166666666667,
+    "duration_ms": 3,
     "albums": [
       "The Hits Vol, 21"
     ]
@@ -7381,7 +7447,7 @@
     "artists": [
       "Blur"
     ],
-    "duration_ms": 2.0193333333333334,
+    "duration_ms": 2,
     "albums": [
       "Blur"
     ]
@@ -7392,7 +7458,7 @@
     "artists": [
       "Ария"
     ],
-    "duration_ms": 3.972,
+    "duration_ms": 3,
     "albums": [
       "Легенды русского рока: Ария"
     ]
@@ -7403,20 +7469,20 @@
     "artists": [
       "Rise Against"
     ],
-    "duration_ms": 3.3335,
+    "duration_ms": 3,
     "albums": [
       "The Sufferer & The Witness"
     ]
   },
   {
-    "track_id": "26360024:6628260",
+    "track_id": "26360024:3135476",
     "title": "Дыши",
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 4.8415,
+    "duration_ms": 4,
     "albums": [
-      "Легенды русского рока"
+      "AZXV"
     ]
   },
   {
@@ -7425,7 +7491,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 4.533,
+    "duration_ms": 4,
     "albums": [
       "Innuendo"
     ]
@@ -7436,7 +7502,7 @@
     "artists": [
       "Scorpions"
     ],
-    "duration_ms": 5.187333333333333,
+    "duration_ms": 5,
     "albums": [
       "Crazy World"
     ]
@@ -7447,7 +7513,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.119,
+    "duration_ms": 3,
     "albums": [
       "Evolve"
     ]
@@ -7458,7 +7524,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 4.483333333333333,
+    "duration_ms": 4,
     "albums": [
       "By The Way"
     ]
@@ -7469,7 +7535,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 2.675333333333333,
+    "duration_ms": 2,
     "albums": [
       "God's Gonna Cut You Down"
     ]
@@ -7480,7 +7546,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.746,
+    "duration_ms": 3,
     "albums": [
       "Revolution Radio"
     ]
@@ -7491,7 +7557,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.642,
+    "duration_ms": 4,
     "albums": [
       "Nizkiz"
     ]
@@ -7502,7 +7568,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.5995,
+    "duration_ms": 3,
     "albums": [
       "Продавец кошмаров"
     ]
@@ -7513,7 +7579,7 @@
     "artists": [
       "Guns N' Roses"
     ],
-    "duration_ms": 5.602333333333333,
+    "duration_ms": 5,
     "albums": [
       "Use Your Illusion II"
     ]
@@ -7524,7 +7590,7 @@
     "artists": [
       "Eagles"
     ],
-    "duration_ms": 6.522833333333334,
+    "duration_ms": 6,
     "albums": [
       "Hotel California"
     ]
@@ -7535,7 +7601,7 @@
     "artists": [
       "Nine Lashes"
     ],
-    "duration_ms": 3.095,
+    "duration_ms": 3,
     "albums": [
       "World We View"
     ]
@@ -7546,7 +7612,7 @@
     "artists": [
       "Scorpions"
     ],
-    "duration_ms": 6.468333333333334,
+    "duration_ms": 6,
     "albums": [
       "Love At First Sting"
     ]
@@ -7557,7 +7623,7 @@
     "artists": [
       "Theory Of A Deadman"
     ],
-    "duration_ms": 3.3701666666666665,
+    "duration_ms": 3,
     "albums": [
       "Savages"
     ]
@@ -7568,7 +7634,7 @@
     "artists": [
       "Metallica"
     ],
-    "duration_ms": 5.009833333333333,
+    "duration_ms": 5,
     "albums": [
       "Metallica"
     ]
@@ -7579,7 +7645,7 @@
     "artists": [
       "Rise Against"
     ],
-    "duration_ms": 3.3205,
+    "duration_ms": 3,
     "albums": [
       "The Sufferer & The Witness"
     ]
@@ -7590,7 +7656,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 5.033333333333333,
+    "duration_ms": 5,
     "albums": [
       "The Getaway"
     ]
@@ -7601,7 +7667,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.749,
+    "duration_ms": 3,
     "albums": [
       "¡DOS!"
     ]
@@ -7612,7 +7678,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 3.1593333333333335,
+    "duration_ms": 3,
     "albums": [
       "Mechanical Animals"
     ]
@@ -7623,7 +7689,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 3.348,
+    "duration_ms": 3,
     "albums": [
       "The Black Parade"
     ]
@@ -7634,7 +7700,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 4.855666666666667,
+    "duration_ms": 4,
     "albums": [
       "Underclass Hero"
     ]
@@ -7645,7 +7711,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.258333333333334,
+    "duration_ms": 4,
     "albums": [
       "Сомнамбула"
     ]
@@ -7656,7 +7722,7 @@
     "artists": [
       "Lida"
     ],
-    "duration_ms": 2.3713333333333333,
+    "duration_ms": 2,
     "albums": [
       "Новая рок звезда"
     ]
@@ -7667,7 +7733,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 4.223,
+    "duration_ms": 4,
     "albums": [
       "Театръ демона"
     ]
@@ -7678,7 +7744,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.0353333333333334,
+    "duration_ms": 3,
     "albums": [
       "The Paramour Sessions"
     ]
@@ -7689,7 +7755,7 @@
     "artists": [
       "Breaking Benjamin"
     ],
-    "duration_ms": 3.3423333333333334,
+    "duration_ms": 3,
     "albums": [
       "Phobia"
     ]
@@ -7700,7 +7766,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.521166666666667,
+    "duration_ms": 2,
     "albums": [
       "Царь горы"
     ]
@@ -7711,7 +7777,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 3.026666666666667,
+    "duration_ms": 3,
     "albums": [
       "Chuck"
     ]
@@ -7722,7 +7788,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.7521666666666667,
+    "duration_ms": 3,
     "albums": [
       "Секунда"
     ]
@@ -7733,7 +7799,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.9335,
+    "duration_ms": 3,
     "albums": [
       "Театръ демона"
     ]
@@ -7744,7 +7810,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 3.3916666666666666,
+    "duration_ms": 3,
     "albums": [
       "Infinity On High"
     ]
@@ -7755,7 +7821,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 3.4198333333333335,
+    "duration_ms": 3,
     "albums": [
       "Голая"
     ]
@@ -7766,7 +7832,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 2.5843333333333334,
+    "duration_ms": 2,
     "albums": [
       "земфира"
     ]
@@ -7777,7 +7843,7 @@
     "artists": [
       "mgk"
     ],
-    "duration_ms": 2.6703333333333332,
+    "duration_ms": 2,
     "albums": [
       "Tickets To My Downfall"
     ]
@@ -7789,7 +7855,7 @@
       "Animal ДжаZ",
       "O.Torvald"
     ],
-    "duration_ms": 2.695,
+    "duration_ms": 2,
     "albums": [
       "Время любить"
     ]
@@ -7800,7 +7866,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 2.625,
+    "duration_ms": 2,
     "albums": [
       "Царь горы"
     ]
@@ -7811,7 +7877,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.488666666666667,
+    "duration_ms": 4,
     "albums": [
       "Царь горы"
     ]
@@ -7823,7 +7889,7 @@
       "Noize MC",
       "Монеточка"
     ],
-    "duration_ms": 4.0615,
+    "duration_ms": 4,
     "albums": [
       "Царь горы"
     ]
@@ -7834,7 +7900,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.1373333333333333,
+    "duration_ms": 3,
     "albums": [
       "Кооператив «Лебединое озеро»"
     ]
@@ -7845,7 +7911,7 @@
     "artists": [
       "Градусы"
     ],
-    "duration_ms": 3.0016666666666665,
+    "duration_ms": 3,
     "albums": [
       "Градус 100"
     ]
@@ -7856,7 +7922,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.302333333333333,
+    "duration_ms": 4,
     "albums": [
       "Синоптик"
     ]
@@ -7867,7 +7933,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 2.795,
+    "duration_ms": 2,
     "albums": [
       "земфира"
     ]
@@ -7878,7 +7944,7 @@
     "artists": [
       "mgk"
     ],
-    "duration_ms": 2.3013333333333335,
+    "duration_ms": 2,
     "albums": [
       "Tickets To My Downfall"
     ]
@@ -7891,7 +7957,7 @@
       "Bobo",
       "Styles of Beyond"
     ],
-    "duration_ms": 3.8153333333333332,
+    "duration_ms": 3,
     "albums": [
       "The Rising Tied"
     ]
@@ -7902,7 +7968,7 @@
     "artists": [
       "Мумий Тролль"
     ],
-    "duration_ms": 3.938833333333333,
+    "duration_ms": 3,
     "albums": [
       "Точно Ртуть Алоэ"
     ]
@@ -7913,7 +7979,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.791333333333333,
+    "duration_ms": 3,
     "albums": [
       "Синоптик"
     ]
@@ -7924,7 +7990,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 3.3343333333333334,
+    "duration_ms": 3,
     "albums": [
       "The Golden Age Of Grotesque"
     ]
@@ -7936,7 +8002,7 @@
       "Noize MC",
       "Маша Макарова"
     ],
-    "duration_ms": 3.6908333333333334,
+    "duration_ms": 3,
     "albums": [
       "The Greatest Hits, Vol. 1"
     ]
@@ -7947,7 +8013,7 @@
     "artists": [
       "Earshot"
     ],
-    "duration_ms": 3.55,
+    "duration_ms": 3,
     "albums": [
       "Two"
     ]
@@ -7958,7 +8024,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 2.6891666666666665,
+    "duration_ms": 2,
     "albums": [
       "Хранитель весны"
     ]
@@ -7969,7 +8035,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.084666666666666,
+    "duration_ms": 4,
     "albums": [
       "Лiрика"
     ]
@@ -7980,7 +8046,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 4.064666666666667,
+    "duration_ms": 4,
     "albums": [
       "бордерлайн"
     ]
@@ -7991,7 +8057,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.5511666666666666,
+    "duration_ms": 2,
     "albums": [
       "Театръ демона"
     ]
@@ -8002,7 +8068,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.488,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -8013,7 +8079,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.841666666666667,
+    "duration_ms": 3,
     "albums": [
       "Сомнамбула"
     ]
@@ -8024,7 +8090,7 @@
     "artists": [
       "Серега Пират"
     ],
-    "duration_ms": 2.1946666666666665,
+    "duration_ms": 2,
     "albums": [
       "В этой траве"
     ]
@@ -8035,7 +8101,7 @@
     "artists": [
       "Смысловые Галлюцинации"
     ],
-    "duration_ms": 3.274,
+    "duration_ms": 3,
     "albums": [
       "Трудных времён песни"
     ]
@@ -8046,7 +8112,7 @@
     "artists": [
       "Ария"
     ],
-    "duration_ms": 5.4286666666666665,
+    "duration_ms": 5,
     "albums": [
       "Химера"
     ]
@@ -8057,7 +8123,7 @@
     "artists": [
       "забей, лерочка"
     ],
-    "duration_ms": 3.0928333333333335,
+    "duration_ms": 3,
     "albums": [
       "ненавижу"
     ]
@@ -8068,7 +8134,7 @@
     "artists": [
       "Jane Air"
     ],
-    "duration_ms": 3.3056666666666668,
+    "duration_ms": 3,
     "albums": [
       "Weekend Warriors"
     ]
@@ -8079,7 +8145,7 @@
     "artists": [
       "Сплин"
     ],
-    "duration_ms": 2.2956666666666665,
+    "duration_ms": 2,
     "albums": [
       "Гранатовый альбом"
     ]
@@ -8090,7 +8156,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.033166666666667,
+    "duration_ms": 3,
     "albums": [
       "Следы на спине"
     ]
@@ -8101,7 +8167,7 @@
     "artists": [
       "SEREBRO"
     ],
-    "duration_ms": 3.8808333333333334,
+    "duration_ms": 3,
     "albums": [
       "Отпусти меня"
     ]
@@ -8112,7 +8178,7 @@
     "artists": [
       "KANATAMI"
     ],
-    "duration_ms": 2.9236666666666666,
+    "duration_ms": 2,
     "albums": [
       "Тишина Улыбается"
     ]
@@ -8123,7 +8189,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.0348333333333333,
+    "duration_ms": 3,
     "albums": [
       "Синоптик"
     ]
@@ -8135,7 +8201,7 @@
       "ЛСП",
       "Oxxxymiron"
     ],
-    "duration_ms": 3.8648333333333333,
+    "duration_ms": 3,
     "albums": [
       "Мне скучно жить"
     ]
@@ -8146,7 +8212,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.675,
+    "duration_ms": 3,
     "albums": [
       "Чувства"
     ]
@@ -8157,7 +8223,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.631,
+    "duration_ms": 2,
     "albums": [
       "Камнем по голове"
     ]
@@ -8168,7 +8234,7 @@
     "artists": [
       "Буерак"
     ],
-    "duration_ms": 1.7121666666666666,
+    "duration_ms": 1,
     "albums": [
       "Компактные откровения"
     ]
@@ -8179,7 +8245,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 4.2505,
+    "duration_ms": 4,
     "albums": [
       "Вендетта"
     ]
@@ -8190,7 +8256,7 @@
     "artists": [
       "Сметана band"
     ],
-    "duration_ms": 4.839166666666666,
+    "duration_ms": 4,
     "albums": [
       "Live in Kyiv"
     ]
@@ -8201,7 +8267,7 @@
     "artists": [
       "Мимо Вселенной"
     ],
-    "duration_ms": 3.658333333333333,
+    "duration_ms": 3,
     "albums": [
       "Разрушительные сны"
     ]
@@ -8213,7 +8279,7 @@
       "Костя Кулясов",
       "АнимациЯ"
     ],
-    "duration_ms": 4.601,
+    "duration_ms": 4,
     "albums": [
       "Во!"
     ]
@@ -8224,7 +8290,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.0,
+    "duration_ms": 4,
     "albums": [
       "Коррозия хип-хопа"
     ]
@@ -8235,7 +8301,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.216666666666667,
+    "duration_ms": 3,
     "albums": [
       "Insomniac"
     ]
@@ -8246,7 +8312,7 @@
     "artists": [
       "Staind"
     ],
-    "duration_ms": 4.411666666666667,
+    "duration_ms": 4,
     "albums": [
       "Break the Cycle"
     ]
@@ -8257,7 +8323,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 3.732,
+    "duration_ms": 3,
     "albums": [
       "Nevermind"
     ]
@@ -8268,7 +8334,7 @@
     "artists": [
       "Orgy"
     ],
-    "duration_ms": 4.45,
+    "duration_ms": 4,
     "albums": [
       "Candyass"
     ]
@@ -8279,7 +8345,7 @@
     "artists": [
       "Five Finger Death Punch"
     ],
-    "duration_ms": 3.4995,
+    "duration_ms": 3,
     "albums": [
       "AfterLife"
     ]
@@ -8290,7 +8356,7 @@
     "artists": [
       "Audioslave"
     ],
-    "duration_ms": 4.899333333333334,
+    "duration_ms": 4,
     "albums": [
       "Audioslave"
     ]
@@ -8301,7 +8367,7 @@
     "artists": [
       "Breaking Benjamin"
     ],
-    "duration_ms": 3.3368333333333333,
+    "duration_ms": 3,
     "albums": [
       "Shallow Bay: The Best Of Breaking Benjamin"
     ]
@@ -8312,7 +8378,7 @@
     "artists": [
       "Shinedown"
     ],
-    "duration_ms": 3.4701666666666666,
+    "duration_ms": 3,
     "albums": [
       "The Sound of Madness"
     ]
@@ -8323,7 +8389,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 3.432,
+    "duration_ms": 3,
     "albums": [
       "Chuck"
     ]
@@ -8334,7 +8400,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 3.066666666666667,
+    "duration_ms": 3,
     "albums": [
       "The Black Parade"
     ]
@@ -8345,7 +8411,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.4185,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -8357,7 +8423,7 @@
       "Костя Кулясов",
       "АнимациЯ"
     ],
-    "duration_ms": 4.6005,
+    "duration_ms": 4,
     "albums": [
       "Красиво"
     ]
@@ -8368,7 +8434,7 @@
     "artists": [
       "Заточка"
     ],
-    "duration_ms": 3.408333333333333,
+    "duration_ms": 3,
     "albums": [
       "Вынь да положь"
     ]
@@ -8379,7 +8445,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.8611666666666666,
+    "duration_ms": 3,
     "albums": [
       "Последний министр (из \"Последний министр\")"
     ]
@@ -8391,7 +8457,7 @@
       "Animal ДжаZ",
       "Влади"
     ],
-    "duration_ms": 5.038833333333334,
+    "duration_ms": 5,
     "albums": [
       "Эгоист"
     ]
@@ -8402,7 +8468,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.1381666666666668,
+    "duration_ms": 3,
     "albums": [
       "Без консервантов"
     ]
@@ -8413,7 +8479,7 @@
     "artists": [
       "Порнофильмы"
     ],
-    "duration_ms": 2.95,
+    "duration_ms": 2,
     "albums": [
       "Молодость и панк-рок"
     ]
@@ -8424,7 +8490,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 3.743,
+    "duration_ms": 3,
     "albums": [
       "Последний альбом"
     ]
@@ -8435,7 +8501,7 @@
     "artists": [
       "Theory Of A Deadman"
     ],
-    "duration_ms": 3.0815,
+    "duration_ms": 3,
     "albums": [
       "Gasoline"
     ]
@@ -8446,7 +8512,7 @@
     "artists": [
       "Hugo"
     ],
-    "duration_ms": 2.266166666666667,
+    "duration_ms": 2,
     "albums": [
       "Old Tyme Religion"
     ]
@@ -8457,7 +8523,7 @@
     "artists": [
       "Breaking Benjamin"
     ],
-    "duration_ms": 3.641,
+    "duration_ms": 3,
     "albums": [
       "Phobia"
     ]
@@ -8468,7 +8534,7 @@
     "artists": [
       "Hinder"
     ],
-    "duration_ms": 3.5648333333333335,
+    "duration_ms": 3,
     "albums": [
       "All American Nightmare"
     ]
@@ -8479,7 +8545,7 @@
     "artists": [
       "Five Finger Death Punch"
     ],
-    "duration_ms": 4.696666666666666,
+    "duration_ms": 4,
     "albums": [
       "F8"
     ]
@@ -8490,7 +8556,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 2.489333333333333,
+    "duration_ms": 2,
     "albums": [
       "Does This Look Infected?"
     ]
@@ -8501,7 +8567,7 @@
     "artists": [
       "Soundgarden"
     ],
-    "duration_ms": 4.6775,
+    "duration_ms": 4,
     "albums": [
       "Echo Of Miles: Scattered Tracks Across The Path"
     ]
@@ -8512,7 +8578,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 4.038166666666666,
+    "duration_ms": 4,
     "albums": [
       "Beauty Behind The Madness"
     ]
@@ -8523,7 +8589,7 @@
     "artists": [
       "Mindless Self Indulgence"
     ],
-    "duration_ms": 3.1493333333333333,
+    "duration_ms": 3,
     "albums": [
       "If"
     ]
@@ -8534,7 +8600,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.873666666666667,
+    "duration_ms": 3,
     "albums": [
       "Feed the Machine"
     ]
@@ -8545,7 +8611,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 4.538666666666667,
+    "duration_ms": 4,
     "albums": [
       "AM"
     ]
@@ -8556,7 +8622,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 3.045,
+    "duration_ms": 3,
     "albums": [
       "From Under The Cork Tree"
     ]
@@ -8567,7 +8633,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 4.457666666666666,
+    "duration_ms": 4,
     "albums": [
       "Человеко-часы. Deluxe Version"
     ]
@@ -8578,7 +8644,7 @@
     "artists": [
       "Rise Against"
     ],
-    "duration_ms": 3.2521666666666667,
+    "duration_ms": 3,
     "albums": [
       "The Sufferer & The Witness"
     ]
@@ -8589,7 +8655,7 @@
     "artists": [
       "Radiohead"
     ],
-    "duration_ms": 3.956166666666667,
+    "duration_ms": 3,
     "albums": [
       "Creep EP"
     ]
@@ -8600,7 +8666,7 @@
     "artists": [
       "Skillet"
     ],
-    "duration_ms": 3.413,
+    "duration_ms": 3,
     "albums": [
       "Awake"
     ]
@@ -8611,7 +8677,7 @@
     "artists": [
       "Sick Puppies"
     ],
-    "duration_ms": 3.122333333333333,
+    "duration_ms": 3,
     "albums": [
       "Tri-polar"
     ]
@@ -8622,7 +8688,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.0255,
+    "duration_ms": 3,
     "albums": [
       "Dookie"
     ]
@@ -8633,7 +8699,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.8315,
+    "duration_ms": 3,
     "albums": [
       "Иллюминатор"
     ]
@@ -8644,7 +8710,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 3.6166666666666667,
+    "duration_ms": 3,
     "albums": [
       "Nirvana"
     ]
@@ -8655,7 +8721,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.4011666666666667,
+    "duration_ms": 3,
     "albums": [
       "Бессимптомно"
     ]
@@ -8666,7 +8732,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.749666666666666,
+    "duration_ms": 4,
     "albums": [
       "Синоптик"
     ]
@@ -8677,7 +8743,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 2.9823333333333335,
+    "duration_ms": 2,
     "albums": [
       "lovehatetragedy"
     ]
@@ -8688,7 +8754,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 4.112666666666667,
+    "duration_ms": 4,
     "albums": [
       "Planetary (GO!)"
     ]
@@ -8699,7 +8765,7 @@
     "artists": [
       "Shinedown"
     ],
-    "duration_ms": 3.6735,
+    "duration_ms": 3,
     "albums": [
       "The Sound of Madness"
     ]
@@ -8710,7 +8776,7 @@
     "artists": [
       "Boston Manor"
     ],
-    "duration_ms": 3.728666666666667,
+    "duration_ms": 3,
     "albums": [
       "Welcome to the Neighbourhood"
     ]
@@ -8721,7 +8787,7 @@
     "artists": [
       "Anberlin"
     ],
-    "duration_ms": 3.1306666666666665,
+    "duration_ms": 3,
     "albums": [
       "New Surrender"
     ]
@@ -8732,7 +8798,7 @@
     "artists": [
       "Staind"
     ],
-    "duration_ms": 4.0633333333333335,
+    "duration_ms": 4,
     "albums": [
       "14 Shades of Grey"
     ]
@@ -8743,7 +8809,7 @@
     "artists": [
       "астра"
     ],
-    "duration_ms": 3.360333333333333,
+    "duration_ms": 3,
     "albums": [
       "шлх"
     ]
@@ -8754,7 +8820,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.1963333333333335,
+    "duration_ms": 3,
     "albums": [
       "21st Century Breakdown"
     ]
@@ -8765,7 +8831,7 @@
     "artists": [
       "Staind"
     ],
-    "duration_ms": 3.7423333333333333,
+    "duration_ms": 3,
     "albums": [
       "Staind"
     ]
@@ -8776,7 +8842,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.2983333333333333,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -8787,7 +8853,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.8675,
+    "duration_ms": 3,
     "albums": [
       "Feed the Machine"
     ]
@@ -8799,7 +8865,7 @@
       "Oxxxymiron",
       "EIGHTEEN"
     ],
-    "duration_ms": 2.0303333333333335,
+    "duration_ms": 2,
     "albums": [
       "НЛО"
     ]
@@ -8810,7 +8876,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.7861666666666665,
+    "duration_ms": 2,
     "albums": [
       "Король и Шут (Официальный саундтрек), Часть 1"
     ]
@@ -8821,7 +8887,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 2.3385,
+    "duration_ms": 2,
     "albums": [
       "Король и Шут (Официальный саундтрек), Часть 1"
     ]
@@ -8832,7 +8898,7 @@
     "artists": [
       "Fight Or Flight"
     ],
-    "duration_ms": 2.958666666666667,
+    "duration_ms": 2,
     "albums": [
       "A Life By Design?"
     ]
@@ -8843,7 +8909,7 @@
     "artists": [
       "Cherri Bomb"
     ],
-    "duration_ms": 4.440666666666667,
+    "duration_ms": 4,
     "albums": [
       "Stark"
     ]
@@ -8854,7 +8920,7 @@
     "artists": [
       "Puddle Of Mudd"
     ],
-    "duration_ms": 3.2715,
+    "duration_ms": 3,
     "albums": [
       "Famous"
     ]
@@ -8865,7 +8931,7 @@
     "artists": [
       "Box Car Racer"
     ],
-    "duration_ms": 3.2681666666666667,
+    "duration_ms": 3,
     "albums": [
       "Box Car Racer"
     ]
@@ -8876,7 +8942,7 @@
     "artists": [
       "mgk"
     ],
-    "duration_ms": 3.0061666666666667,
+    "duration_ms": 3,
     "albums": [
       "papercuts"
     ]
@@ -8887,7 +8953,7 @@
     "artists": [
       "Evanescence"
     ],
-    "duration_ms": 3.954833333333333,
+    "duration_ms": 3,
     "albums": [
       "Fallen"
     ]
@@ -8898,7 +8964,7 @@
     "artists": [
       "Marilyn Manson"
     ],
-    "duration_ms": 5.6375,
+    "duration_ms": 5,
     "albums": [
       "Mechanical Animals"
     ]
@@ -8909,7 +8975,7 @@
     "artists": [
       "Staind"
     ],
-    "duration_ms": 4.8855,
+    "duration_ms": 4,
     "albums": [
       "Break the Cycle"
     ]
@@ -8920,7 +8986,7 @@
     "artists": [
       "Creed"
     ],
-    "duration_ms": 4.034166666666667,
+    "duration_ms": 4,
     "albums": [
       "With Arms Wide Open: A Retrospective"
     ]
@@ -8931,7 +8997,7 @@
     "artists": [
       "Five Finger Death Punch"
     ],
-    "duration_ms": 3.1785,
+    "duration_ms": 3,
     "albums": [
       "F8"
     ]
@@ -8942,7 +9008,7 @@
     "artists": [
       "Земфира"
     ],
-    "duration_ms": 3.5673333333333335,
+    "duration_ms": 3,
     "albums": [
       "ПРОСТИ МЕНЯ МОЯ ЛЮБОВЬ"
     ]
@@ -8953,7 +9019,7 @@
     "artists": [
       "The Offspring"
     ],
-    "duration_ms": 3.309,
+    "duration_ms": 3,
     "albums": [
       "Let The Bad Times Roll"
     ]
@@ -8964,7 +9030,7 @@
     "artists": [
       "Panic! At The Disco"
     ],
-    "duration_ms": 3.1268333333333334,
+    "duration_ms": 3,
     "albums": [
       "A Fever You Can't Sweat Out"
     ]
@@ -8975,7 +9041,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 4.354333333333333,
+    "duration_ms": 4,
     "albums": [
       "Boulevard of Broken Dreams"
     ]
@@ -8986,7 +9052,7 @@
     "artists": [
       "Сплин"
     ],
-    "duration_ms": 3.7941666666666665,
+    "duration_ms": 3,
     "albums": [
       "Гранатовый альбом"
     ]
@@ -8997,7 +9063,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 2.031,
+    "duration_ms": 2,
     "albums": [
       "News Of The World"
     ]
@@ -9008,7 +9074,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 3.2335,
+    "duration_ms": 3,
     "albums": [
       "Light Me Up"
     ]
@@ -9019,7 +9085,7 @@
     "artists": [
       "Billy Talent"
     ],
-    "duration_ms": 3.61,
+    "duration_ms": 3,
     "albums": [
       "Billy Talent - 10th Anniversary Edition"
     ]
@@ -9030,7 +9096,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.383333333333334,
+    "duration_ms": 4,
     "albums": [
       "Правілы"
     ]
@@ -9041,7 +9107,7 @@
     "artists": [
       "System of A Down"
     ],
-    "duration_ms": 3.5835,
+    "duration_ms": 3,
     "albums": [
       "System Of A Down"
     ]
@@ -9052,7 +9118,7 @@
     "artists": [
       "Paramore"
     ],
-    "duration_ms": 4.366,
+    "duration_ms": 4,
     "albums": [
       "Decode"
     ]
@@ -9063,7 +9129,7 @@
     "artists": [
       "GAYLE"
     ],
-    "duration_ms": 2.6638333333333333,
+    "duration_ms": 2,
     "albums": [
       "abcdefu (angrier)"
     ]
@@ -9074,7 +9140,7 @@
     "artists": [
       "Royal Blood"
     ],
-    "duration_ms": 2.6875,
+    "duration_ms": 2,
     "albums": [
       "Typhoons"
     ]
@@ -9085,7 +9151,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.1321666666666665,
+    "duration_ms": 3,
     "albums": [
       "Meteora"
     ]
@@ -9096,7 +9162,7 @@
     "artists": [
       "Halestorm"
     ],
-    "duration_ms": 3.058333333333333,
+    "duration_ms": 3,
     "albums": [
       "The Strange Case of..."
     ]
@@ -9107,7 +9173,7 @@
     "artists": [
       "Нервы"
     ],
-    "duration_ms": 2.688833333333333,
+    "duration_ms": 2,
     "albums": [
       "Третье дыхание"
     ]
@@ -9118,7 +9184,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.8973333333333335,
+    "duration_ms": 3,
     "albums": [
       "Dark Horse"
     ]
@@ -9129,7 +9195,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 3.2586666666666666,
+    "duration_ms": 3,
     "albums": [
       "The Black Parade"
     ]
@@ -9140,7 +9206,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 3.0236666666666667,
+    "duration_ms": 3,
     "albums": [
       "From Under The Cork Tree"
     ]
@@ -9151,7 +9217,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 3.3606666666666665,
+    "duration_ms": 3,
     "albums": [
       "AM"
     ]
@@ -9162,7 +9228,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 3.355166666666667,
+    "duration_ms": 3,
     "albums": [
       "клетка"
     ]
@@ -9173,7 +9239,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.1895,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -9184,7 +9250,7 @@
     "artists": [
       "Icon For Hire"
     ],
-    "duration_ms": 2.9515,
+    "duration_ms": 2,
     "albums": [
       "Scripted"
     ]
@@ -9195,7 +9261,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 2.8196666666666665,
+    "duration_ms": 2,
     "albums": [
       "In Utero"
     ]
@@ -9206,7 +9272,7 @@
     "artists": [
       "Fit For Rivals"
     ],
-    "duration_ms": 3.0945,
+    "duration_ms": 3,
     "albums": [
       "Steady Damage"
     ]
@@ -9217,7 +9283,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 5.4955,
+    "duration_ms": 5,
     "albums": [
       "Californication"
     ]
@@ -9228,7 +9294,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.749,
+    "duration_ms": 3,
     "albums": [
       "Над пропастью..."
     ]
@@ -9239,7 +9305,7 @@
     "artists": [
       "Skillet"
     ],
-    "duration_ms": 2.966833333333333,
+    "duration_ms": 2,
     "albums": [
       "Awake"
     ]
@@ -9250,7 +9316,7 @@
     "artists": [
       "астра"
     ],
-    "duration_ms": 3.1533333333333333,
+    "duration_ms": 3,
     "albums": [
       "тону"
     ]
@@ -9261,7 +9327,7 @@
     "artists": [
       "астра"
     ],
-    "duration_ms": 3.579,
+    "duration_ms": 3,
     "albums": [
       "начало"
     ]
@@ -9272,7 +9338,7 @@
     "artists": [
       "забей, лерочка"
     ],
-    "duration_ms": 3.9,
+    "duration_ms": 3,
     "albums": [
       "lie"
     ]
@@ -9283,7 +9349,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.4343333333333335,
+    "duration_ms": 3,
     "albums": [
       "Ян"
     ]
@@ -9294,7 +9360,7 @@
     "artists": [
       "Hole"
     ],
-    "duration_ms": 2.7148333333333334,
+    "duration_ms": 2,
     "albums": [
       "Celebrity Skin"
     ]
@@ -9305,7 +9371,7 @@
     "artists": [
       "забей, лерочка"
     ],
-    "duration_ms": 3.7106666666666666,
+    "duration_ms": 3,
     "albums": [
       "поздно"
     ]
@@ -9316,7 +9382,7 @@
     "artists": [
       "Creedence Clearwater Revival"
     ],
-    "duration_ms": 2.296333333333333,
+    "duration_ms": 2,
     "albums": [
       "Chronicle: 20 Greatest Hits"
     ]
@@ -9327,7 +9393,7 @@
     "artists": [
       "Машина времени"
     ],
-    "duration_ms": 3.247333333333333,
+    "duration_ms": 3,
     "albums": [
       "Отрываясь"
     ]
@@ -9338,7 +9404,7 @@
     "artists": [
       "Skillet"
     ],
-    "duration_ms": 4.346333333333333,
+    "duration_ms": 4,
     "albums": [
       "Rise"
     ]
@@ -9349,7 +9415,7 @@
     "artists": [
       "Katy Perry"
     ],
-    "duration_ms": 2.994,
+    "duration_ms": 2,
     "albums": [
       "One Of The Boys"
     ]
@@ -9360,7 +9426,7 @@
     "artists": [
       "Halestorm"
     ],
-    "duration_ms": 3.188833333333333,
+    "duration_ms": 3,
     "albums": [
       "The Strange Case of..."
     ]
@@ -9371,7 +9437,7 @@
     "artists": [
       "Billy Talent"
     ],
-    "duration_ms": 4.049666666666667,
+    "duration_ms": 4,
     "albums": [
       "Dead Silence"
     ]
@@ -9382,7 +9448,7 @@
     "artists": [
       "Нервы"
     ],
-    "duration_ms": 2.8806666666666665,
+    "duration_ms": 2,
     "albums": [
       "Всё Что Вокруг"
     ]
@@ -9393,7 +9459,7 @@
     "artists": [
       "Jane Air"
     ],
-    "duration_ms": 3.997333333333333,
+    "duration_ms": 3,
     "albums": [
       "Weekend Warriors"
     ]
@@ -9404,7 +9470,7 @@
     "artists": [
       "кис-кис"
     ],
-    "duration_ms": 2.9608333333333334,
+    "duration_ms": 2,
     "albums": [
       "клетка"
     ]
@@ -9415,7 +9481,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.1935,
+    "duration_ms": 3,
     "albums": [
       "Будь как дома, Путник..."
     ]
@@ -9426,7 +9492,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 2.7016666666666667,
+    "duration_ms": 2,
     "albums": [
       "Meteora"
     ]
@@ -9438,7 +9504,7 @@
       "You Me At Six",
       "Oli Sykes"
     ],
-    "duration_ms": 3.7006666666666668,
+    "duration_ms": 3,
     "albums": [
       "Sinners Never Sleep"
     ]
@@ -9449,7 +9515,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.6095,
+    "duration_ms": 3,
     "albums": [
       "Человеко-часы. Deluxe Version"
     ]
@@ -9460,7 +9526,7 @@
     "artists": [
       "Kiss"
     ],
-    "duration_ms": 4.311833333333333,
+    "duration_ms": 4,
     "albums": [
       "Killers"
     ]
@@ -9471,7 +9537,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.3645,
+    "duration_ms": 3,
     "albums": [
       "Smoke + Mirrors"
     ]
@@ -9482,7 +9548,7 @@
     "artists": [
       "My Chemical Romance"
     ],
-    "duration_ms": 4.987,
+    "duration_ms": 4,
     "albums": [
       "The Black Parade"
     ]
@@ -9493,7 +9559,7 @@
     "artists": [
       "Shinedown"
     ],
-    "duration_ms": 3.5655,
+    "duration_ms": 3,
     "albums": [
       "Us and Them"
     ]
@@ -9504,7 +9570,7 @@
     "artists": [
       "Theory Of A Deadman"
     ],
-    "duration_ms": 3.427,
+    "duration_ms": 3,
     "albums": [
       "Scars & Souvenirs"
     ]
@@ -9515,7 +9581,7 @@
     "artists": [
       "Royal Republic"
     ],
-    "duration_ms": 2.2883333333333336,
+    "duration_ms": 2,
     "albums": [
       "Weekend Man"
     ]
@@ -9526,7 +9592,7 @@
     "artists": [
       "Puddle Of Mudd"
     ],
-    "duration_ms": 3.8343333333333334,
+    "duration_ms": 3,
     "albums": [
       "Come Clean"
     ]
@@ -9537,7 +9603,7 @@
     "artists": [
       "Paramore"
     ],
-    "duration_ms": 3.643666666666667,
+    "duration_ms": 3,
     "albums": [
       "brand new eyes"
     ]
@@ -9548,7 +9614,7 @@
     "artists": [
       "Nickelback"
     ],
-    "duration_ms": 3.8236666666666665,
+    "duration_ms": 3,
     "albums": [
       "The Best of Nickelback, Vol. 1"
     ]
@@ -9559,7 +9625,7 @@
     "artists": [
       "The Pretty Reckless"
     ],
-    "duration_ms": 3.9066666666666667,
+    "duration_ms": 3,
     "albums": [
       "Light Me Up"
     ]
@@ -9570,7 +9636,7 @@
     "artists": [
       "Audioslave"
     ],
-    "duration_ms": 4.613,
+    "duration_ms": 4,
     "albums": [
       "Out of Exile"
     ]
@@ -9581,7 +9647,7 @@
     "artists": [
       "Cilver"
     ],
-    "duration_ms": 3.7028333333333334,
+    "duration_ms": 3,
     "albums": [
       "Not The End Of The World"
     ]
@@ -9592,7 +9658,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.6226666666666665,
+    "duration_ms": 3,
     "albums": [
       "Хроника бешеных дней"
     ]
@@ -9603,7 +9669,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 4.256166666666667,
+    "duration_ms": 4,
     "albums": [
       "Californication"
     ]
@@ -9614,7 +9680,7 @@
     "artists": [
       "Linkin Park"
     ],
-    "duration_ms": 3.1548333333333334,
+    "duration_ms": 3,
     "albums": [
       "Minutes to Midnight"
     ]
@@ -9625,7 +9691,7 @@
     "artists": [
       "The Offspring"
     ],
-    "duration_ms": 2.996,
+    "duration_ms": 2,
     "albums": [
       "Americana"
     ]
@@ -9636,7 +9702,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.132,
+    "duration_ms": 3,
     "albums": [
       "Бунт на корабле"
     ]
@@ -9647,7 +9713,7 @@
     "artists": [
       "Oxxxymiron"
     ],
-    "duration_ms": 2.7693333333333334,
+    "duration_ms": 2,
     "albums": [
       "Красота и Уродство"
     ]
@@ -9658,7 +9724,7 @@
     "artists": [
       "Eminem"
     ],
-    "duration_ms": 4.538666666666667,
+    "duration_ms": 4,
     "albums": [
       "The Marshall Mathers LP2"
     ]
@@ -9669,7 +9735,7 @@
     "artists": [
       "Rammstein"
     ],
-    "duration_ms": 5.372166666666667,
+    "duration_ms": 5,
     "albums": [
       "Rammstein"
     ]
@@ -9680,7 +9746,7 @@
     "artists": [
       "Rammstein"
     ],
-    "duration_ms": 4.097166666666666,
+    "duration_ms": 4,
     "albums": [
       "Made in Germany 1995–2011"
     ]
@@ -9691,7 +9757,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 2.7058333333333335,
+    "duration_ms": 2,
     "albums": [
       "Люди"
     ]
@@ -9702,7 +9768,7 @@
     "artists": [
       "Shocking Blue"
     ],
-    "duration_ms": 3.1255,
+    "duration_ms": 3,
     "albums": [
       "At Home"
     ]
@@ -9713,7 +9779,7 @@
     "artists": [
       "Chris Isaak"
     ],
-    "duration_ms": 4.781333333333333,
+    "duration_ms": 4,
     "albums": [
       "Best Of Chris Isaak"
     ]
@@ -9724,7 +9790,7 @@
     "artists": [
       "Limp Bizkit"
     ],
-    "duration_ms": 5.331666666666667,
+    "duration_ms": 5,
     "albums": [
       "Chocolate Starfish And The Hot Dog Flavored Water"
     ]
@@ -9735,7 +9801,7 @@
     "artists": [
       "Fall Out Boy"
     ],
-    "duration_ms": 3.156,
+    "duration_ms": 3,
     "albums": [
       "American Beauty/American Psycho"
     ]
@@ -9746,7 +9812,7 @@
     "artists": [
       "Imagine Dragons"
     ],
-    "duration_ms": 3.837,
+    "duration_ms": 3,
     "albums": [
       "Smoke + Mirrors"
     ]
@@ -9757,7 +9823,7 @@
     "artists": [
       "Arctic Monkeys"
     ],
-    "duration_ms": 3.2198333333333333,
+    "duration_ms": 3,
     "albums": [
       "Favourite Worst Nightmare"
     ]
@@ -9768,7 +9834,7 @@
     "artists": [
       "Green Day"
     ],
-    "duration_ms": 3.8836666666666666,
+    "duration_ms": 3,
     "albums": [
       "Holiday"
     ]
@@ -9779,7 +9845,7 @@
     "artists": [
       "Eminem"
     ],
-    "duration_ms": 4.4928333333333335,
+    "duration_ms": 4,
     "albums": [
       "Kamikaze"
     ]
@@ -9790,7 +9856,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 5.5776666666666666,
+    "duration_ms": 5,
     "albums": [
       "Stadium Arcadium"
     ]
@@ -9801,7 +9867,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.5221666666666667,
+    "duration_ms": 3,
     "albums": [
       "lovehatetragedy"
     ]
@@ -9812,7 +9878,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 5.9315,
+    "duration_ms": 5,
     "albums": [
       "A Night At The Opera"
     ]
@@ -9823,7 +9889,7 @@
     "artists": [
       "Simple Plan"
     ],
-    "duration_ms": 3.8581666666666665,
+    "duration_ms": 3,
     "albums": [
       "Simple Plan [Deluxe]"
     ]
@@ -9834,7 +9900,7 @@
     "artists": [
       "Michael Sembello"
     ],
-    "duration_ms": 4.1,
+    "duration_ms": 4,
     "albums": [
       "«Танец-вспышка»"
     ]
@@ -9845,7 +9911,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 4.6005,
+    "duration_ms": 4,
     "albums": [
       "XX лет. Избранное"
     ]
@@ -9856,7 +9922,7 @@
     "artists": [
       "Би-2"
     ],
-    "duration_ms": 4.828166666666666,
+    "duration_ms": 4,
     "albums": [
       "Горизонт событий"
     ]
@@ -9867,20 +9933,20 @@
     "artists": [
       "Тараканы!"
     ],
-    "duration_ms": 4.425,
+    "duration_ms": 4,
     "albums": [
       "Бой до дыр"
     ]
   },
   {
-    "track_id": "26360011:1702799",
+    "track_id": "26360011:3135476",
     "title": "Ангел",
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.606333333333333,
+    "duration_ms": 3,
     "albums": [
-      "Как люди"
+      "AZXV"
     ]
   },
   {
@@ -9890,7 +9956,7 @@
       "The Weeknd",
       "Daft Punk"
     ],
-    "duration_ms": 3.841,
+    "duration_ms": 3,
     "albums": [
       "Starboy"
     ]
@@ -9901,7 +9967,7 @@
     "artists": [
       "Asking Alexandria"
     ],
-    "duration_ms": 3.0941666666666667,
+    "duration_ms": 3,
     "albums": [
       "See What’s On The Inside"
     ]
@@ -9912,7 +9978,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 3.375,
+    "duration_ms": 3,
     "albums": [
       "Guantanama"
     ]
@@ -9923,7 +9989,7 @@
     "artists": [
       "blink-182"
     ],
-    "duration_ms": 3.054333333333333,
+    "duration_ms": 3,
     "albums": [
       "California"
     ]
@@ -9934,7 +10000,7 @@
     "artists": [
       "Sum 41"
     ],
-    "duration_ms": 2.654166666666667,
+    "duration_ms": 2,
     "albums": [
       "All the Good Shit: 14 Solid Gold Hits 2000-2008"
     ]
@@ -9945,7 +10011,7 @@
     "artists": [
       "Skillet"
     ],
-    "duration_ms": 3.8321666666666667,
+    "duration_ms": 3,
     "albums": [
       "Unleashed"
     ]
@@ -9956,7 +10022,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 3.6496666666666666,
+    "duration_ms": 3,
     "albums": [
       "Nevermind"
     ]
@@ -9969,7 +10035,7 @@
       "Sebu Simonian",
       "Ryan Merchant"
     ],
-    "duration_ms": 3.213,
+    "duration_ms": 3,
     "albums": [
       "In A Tidal Wave Of Mystery"
     ]
@@ -9980,7 +10046,7 @@
     "artists": [
       "Fleetwood Mac"
     ],
-    "duration_ms": 4.47,
+    "duration_ms": 4,
     "albums": [
       "Rumours"
     ]
@@ -9991,7 +10057,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 3.017,
+    "duration_ms": 3,
     "albums": [
       "Sheer Heart Attack"
     ]
@@ -10003,7 +10069,7 @@
       "Post Malone",
       "Swae Lee"
     ],
-    "duration_ms": 2.626,
+    "duration_ms": 2,
     "albums": [
       "Hollywood's Bleeding"
     ]
@@ -10014,7 +10080,7 @@
     "artists": [
       "The Weeknd"
     ],
-    "duration_ms": 3.334,
+    "duration_ms": 3,
     "albums": [
       "After Hours"
     ]
@@ -10026,7 +10092,7 @@
       "ЛСП",
       "Oxxxymiron"
     ],
-    "duration_ms": 3.7576666666666667,
+    "duration_ms": 3,
     "albums": [
       "Magic City"
     ]
@@ -10037,7 +10103,7 @@
     "artists": [
       "Rise Against"
     ],
-    "duration_ms": 4.038,
+    "duration_ms": 4,
     "albums": [
       "Appeal To Reason"
     ]
@@ -10048,7 +10114,7 @@
     "artists": [
       "Король и Шут"
     ],
-    "duration_ms": 3.5523333333333333,
+    "duration_ms": 3,
     "albums": [
       "Театръ демона"
     ]
@@ -10059,7 +10125,7 @@
     "artists": [
       "Kansas"
     ],
-    "duration_ms": 3.4403333333333332,
+    "duration_ms": 3,
     "albums": [
       "Rock: The Train Kept A Rollin'"
     ]
@@ -10070,7 +10136,7 @@
     "artists": [
       "Lumen"
     ],
-    "duration_ms": 3.6776666666666666,
+    "duration_ms": 3,
     "albums": [
       "Покажите Солнце"
     ]
@@ -10081,7 +10147,7 @@
     "artists": [
       "Redbone"
     ],
-    "duration_ms": 2.9431666666666665,
+    "duration_ms": 2,
     "albums": [
       "70's Mixtape Vol. 1 & 2 - Music Inspired by Guardians of the Galaxy"
     ]
@@ -10092,7 +10158,7 @@
     "artists": [
       "Дайте танк (!)"
     ],
-    "duration_ms": 3.683666666666667,
+    "duration_ms": 3,
     "albums": [
       "См. рис. 1"
     ]
@@ -10103,7 +10169,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 3.4898333333333333,
+    "duration_ms": 3,
     "albums": [
       "Jazz"
     ]
@@ -10114,7 +10180,7 @@
     "artists": [
       "Guns N' Roses"
     ],
-    "duration_ms": 5.921,
+    "duration_ms": 5,
     "albums": [
       "Appetite For Destruction"
     ]
@@ -10125,7 +10191,7 @@
     "artists": [
       "Papa Roach"
     ],
-    "duration_ms": 3.4341666666666666,
+    "duration_ms": 3,
     "albums": [
       "Getting Away With Murder"
     ]
@@ -10136,7 +10202,7 @@
     "artists": [
       "Eminem"
     ],
-    "duration_ms": 5.338166666666667,
+    "duration_ms": 5,
     "albums": [
       "Curtain Call: The Hits"
     ]
@@ -10147,7 +10213,7 @@
     "artists": [
       "Skillet"
     ],
-    "duration_ms": 3.1135,
+    "duration_ms": 3,
     "albums": [
       "Awake"
     ]
@@ -10160,7 +10226,7 @@
       "Mr.Chocs",
       "Charmaine Van der Westhuizen"
     ],
-    "duration_ms": 4.785666666666667,
+    "duration_ms": 4,
     "albums": [
       "Heart Shaped World"
     ]
@@ -10172,7 +10238,7 @@
       "Би-2",
       "Oxxxymiron"
     ],
-    "duration_ms": 4.815166666666666,
+    "duration_ms": 4,
     "albums": [
       "Горизонт событий"
     ]
@@ -10183,7 +10249,7 @@
     "artists": [
       "Nirvana"
     ],
-    "duration_ms": 4.688833333333333,
+    "duration_ms": 4,
     "albums": [
       "In Utero"
     ]
@@ -10194,7 +10260,7 @@
     "artists": [
       "Led Zeppelin"
     ],
-    "duration_ms": 5.575833333333334,
+    "duration_ms": 5,
     "albums": [
       "Led Zeppelin II"
     ]
@@ -10205,7 +10271,7 @@
     "artists": [
       "Red Hot Chili Peppers"
     ],
-    "duration_ms": 4.7026666666666666,
+    "duration_ms": 4,
     "albums": [
       "Stadium Arcadium"
     ]
@@ -10216,7 +10282,7 @@
     "artists": [
       "Nizkiz"
     ],
-    "duration_ms": 4.0855,
+    "duration_ms": 4,
     "albums": [
       "Лiрика"
     ]
@@ -10227,7 +10293,7 @@
     "artists": [
       "Wig Wam"
     ],
-    "duration_ms": 2.9495,
+    "duration_ms": 2,
     "albums": [
       "Non Stop Rock'n Roll"
     ]
@@ -10238,7 +10304,7 @@
     "artists": [
       "Noize MC"
     ],
-    "duration_ms": 4.15,
+    "duration_ms": 4,
     "albums": [
       "Open Air"
     ]
@@ -10249,7 +10315,7 @@
     "artists": [
       "Pat Benatar"
     ],
-    "duration_ms": 3.474666666666667,
+    "duration_ms": 3,
     "albums": [
       "In The Heat Of The Night"
     ]
@@ -10260,7 +10326,7 @@
     "artists": [
       "Animal ДжаZ"
     ],
-    "duration_ms": 3.9406666666666665,
+    "duration_ms": 3,
     "albums": [
       "AZXV: Акустика"
     ]
@@ -10271,7 +10337,7 @@
     "artists": [
       "Queen"
     ],
-    "duration_ms": 3.639666666666667,
+    "duration_ms": 3,
     "albums": [
       "Greatest Hits II"
     ]
@@ -10282,7 +10348,7 @@
     "artists": [
       "Rev Theory"
     ],
-    "duration_ms": 4.126833333333333,
+    "duration_ms": 4,
     "albums": [
       "Light It Up"
     ]
@@ -10293,7 +10359,7 @@
     "artists": [
       "Guns N' Roses"
     ],
-    "duration_ms": 3.698166666666667,
+    "duration_ms": 3,
     "albums": [
       "Hard Skool"
     ]

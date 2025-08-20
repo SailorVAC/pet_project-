@@ -8,11 +8,9 @@ x-airflow-common: &airflow-common
     AIRFLOW__CORE__FERNET_KEY: ""
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
     AIRFLOW__CORE__LOAD_EXAMPLES: "false"
-    PYTHONPATH: /opt/airflow/src
-    YANDEX_TOKEN: "y0__xDRi5SoARje-AYgg8idiBQR9lN0c2vVJrEtgTBhcqtUgFQRhA"
   volumes:
     - ./dags:/opt/airflow/dags
-    - ./src:/opt/airflow/src
+    - ./data:/opt/airflow/data
   depends_on:
     - postgres-airflow
     - postgres-music
