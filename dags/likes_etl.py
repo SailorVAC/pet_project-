@@ -6,7 +6,7 @@ from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 import os
 
-TOKEN = "y0__xDRi5SoARje-AYgg8idiBQR9lN0c2vVJrEtgTBhcqtUgFQRhA"
+TOKEN = "мой токен"
 DB_HOST = "postgres-music"  
 DB_NAME = "music_db"
 DB_USER = "music_user"

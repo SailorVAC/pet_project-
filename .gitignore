@@ -7,3 +7,5 @@ data/processed/
 logs/
 __pycache__/
 .venv
+# Игнорируем папку с сырыми данными
+/data/raw/
